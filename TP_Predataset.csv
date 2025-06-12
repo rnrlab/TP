@@ -1,0 +1,131 @@
+Realm;Kingdom;Phylum;Class;Order;Family;Genus;Species;Acronym;Accession;Host
+Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Kalamavirales;Tectiviridae;Alphatectivirus;A. PRD1 (PRD1);PRD1;YP_009639955.1;P-
+Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Kalamavirales;Tectiviridae;Alphatectivirus;PRDvermilion;PRDvermilion;WWT39219.1;P-
+Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Kalamavirales;Tectiviridae;Alphatectivirus;A. PR4 (PR4);PR4;YP_337982.1;P-
+Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Kalamavirales;Tectiviridae;Alphatectivirus;A. PR772 (PR772);PR772;AAX45679.1;P-
+Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Kalamavirales;Tectiviridae;Alphatectivirus;A. PR5 (PR5);PR5;AAX45648.1;P-
+Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Kalamavirales;Tectiviridae;Alphatectivirus;A. PR3 (PR3);PR3;AAX45586.1;P-
+Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Kalamavirales;Tectiviridae;Alphatectivirus;A. L17 (L17);L17;AAX45555.1;P-
+Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Kalamavirales;Tectiviridae;Betatectivirus;B. Bam35 (Bam35);Bam35;AAP83474.1;P+
+Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Kalamavirales;Tectiviridae;Betatectivirus;B. sato (Sato);Sato;QWE49625.1;P+
+Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Kalamavirales;Tectiviridae;Betatectivirus;B. AP50 (AP50);AP50;ACB54903.1;P+
+Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Kalamavirales;Tectiviridae;Gammatectivirus;G. GC1 (GC1);GC1;YP_009620045.1;P-
+Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Kalamavirales;Tectiviridae;Deltatectivirus;D. forthebois (Forthebois);Forthebois;YP_010084035.1;P+
+Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Kalamavirales;Tectiviridae;Epsilontectivirus;E. toil (Toil);Toil;YP_010084102.1;P+
+Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Rowavirales;Adenoviridae;Mastadenovirus;M. caesari (hAd2);hAd2;AP_000167.1;E
+Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Rowavirales;Adenoviridae;Mastadenovirus;M. bosdecimum (BAdV-10);BAdV-10;UZF96919.1;E
+Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Rowavirales;Adenoviridae;Mastadenovirus;M. tarandri (ReAdV-1);ReAdV-1;UDF05959.1;E
+Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Rowavirales;Adenoviridae;Mastadenovirus;M. ovisoctavum (OAdV-8);OAdV-8;YP_010087258.1;E
+Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Rowavirales;Adenoviridae;Mastadenovirus;M. cervi (OdAdV-2/B);OdAdV-2;YP_009373239.1;E
+Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Rowavirales;Adenoviridae;Mastadenovirus;M. bostertium (BAdV-3);BAdV-3;NP_046315.1;E
+Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Rowavirales;Adenoviridae;Mastadenovirus;M. equi (EAdV-1);EAdV-1;ANG08551.1;E
+Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Rowavirales;Adenoviridae;Mastadenovirus;M. musauriti (BaAdV-3/A);BaAdV-3;YP_005271183.1;E
+Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Rowavirales;Adenoviridae;Mastadenovirus;M. rhesi (SAdV-54);SAdV-54;YP_009109574.1;E
+Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Rowavirales;Adenoviridae;Mastadenovirus;M. porcusquartum (PAdV-4);PAdV-4;QNQ79244.1;E
+Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Rowavirales;Adenoviridae;Mastadenovirus;M. dominans (HAdV-9/D);HAdV-9;AHV83722.1;E
+Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Rowavirales;Adenoviridae;Mastadenovirus;M. adami (HAdV-12/A);HAdV-12;WEG77430.1;E
+Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Rowavirales;Adenoviridae;Mastadenovirus;M. faecale (HAdV-40/F);HAdV-40;P48313.1;E
+Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Rowavirales;Adenoviridae;Mastadenovirus;M. exoticum (HAdV-E4);HAdV-E4;QVS02962.1;E
+Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Rowavirales;Adenoviridae;Mastadenovirus;M. blackbeardi (HAdV-B3/B);HAdV-B3;WZD55957.1;E
+Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Rowavirales;Adenoviridae;Mastadenovirus;Canine Mastadenovirus 2 (CAdV-2);CAdV-2;XCO66844.1;E
+Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Rowavirales;Adenoviridae;Barthadenovirus;B. galloanserae (DAdV-1/A);DAdV-1;WPT09538.1;E
+Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Rowavirales;Adenoviridae;Barthadenovirus;B. amazonae (PsAdV-3);PsAdV-3;YP_009112717.1;E
+Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Rowavirales;Adenoviridae;Aviadenovirus;A. gallinae (FAdV-9/D);FAdV-9;NP_050282.1;E
+Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Rowavirales;Adenoviridae;Aviadenovirus;A. anatis (DAdV-3/B);DAdV-3;QWK52450.1;E
+Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Rowavirales;Adenoviridae;Aviadenovirus;A. anseris (GAdV-4);GAdV-4;WPM93279.1;E
+Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Rowavirales;Adenoviridae;Aviadenovirus;A. senegalense (PsAdV-1);PsAdV-1;QJX14718.1;E
+Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Rowavirales;Adenoviridae;Aviadenovirus;A. columbae (PiAdV-1/A);PiAdV-1;WXH85148.1;E
+Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Rowavirales;Adenoviridae;Aviadenovirus;A. gruis (CrAdV-1);CrAdV-1;BBJ21541.1;E
+Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Rowavirales;Adenoviridae;Aviadenovirus;A. podargidae (TCAdV-1);TCAdV-1;WGO78215.1;E
+Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Rowavirales;Adenoviridae;Aviadenovirus;A. hepatitidis (FAdV-8a/E);FAdV-8a;ANJ02522.1;E
+Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Rowavirales;Adenoviridae;Aviadenovirus;A. hydropericardii (FAdV-4);FAdV-4;ANG08813.1;E
+Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Rowavirales;Adenoviridae;Siadenovirus;S. cinerei (PsAdV-2);PsAdV-2;QQM18085.1;E
+Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Rowavirales;Adenoviridae;Siadenovirus;S. spheniscidae (CPAdV-2);CPAdV-2;ALB78139.1;E
+Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Rowavirales;Adenoviridae;Siadenovirus;S. raptoris (RAdV-1);RAdV-1;ACH89467.1;E
+Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Rowavirales;Adenoviridae;Siadenovirus;S. gallopavotertii (TAdV-3);TAdV-3;NP_047386.1;E
+Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;-;Autolykiviridae;Paulavirus;P. viph1008o (viph1008o);viph1008o;YP_010084221.1;P-
+Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;-;Autolykiviridae;-;1.249.B._10N.261.55.B9 (viph1249b);viph1249b;AUR98322.1;P-
+Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;-;Gueliniviridae;Brucesealvirus;B. CPR7 (phiCP7R);phiCP7R;YP_006383588.1;P-
+Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;-;Gueliniviridae;Brucesealvirus;B. ZP2 (phiZP2);phiZP2;YP_006488651.1;P-
+Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;-;Gueliniviridae;Brucesealvirus;B. CPV4 (phiCPV4);phiCPV4;YP_006488621.1;P-
+Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;-;Gueliniviridae;Susfortunavirus;S. susfortuna;Susfortuna;;P-
+Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;-;Rountreeviridae;Ahjdlikevirus;vB_EfaP_IME199;IME199;;P+
+Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;-;Rountreeviridae;Andhravirus;A. andhra;Andhra;;P+
+Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;-;Rountreeviridae;Andhravirus;A. St134 (St134);St134;AQT25381.1;P+
+Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;-;Salasmaviridae;Salasvirus;S. phi29 (phi29);phi29;YP_002004530.1;P+
+Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;-;Salasmaviridae;Salasvirus;S. Goe23 (Goe23);Goe23;UMO75951.1;P+
+Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;-;Salasmaviridae;Salasvirus;S. Goe4 (Goe4);Goe4;AYD87725.1;P+
+Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;-;Salasmaviridae;Salasvirus;S. Goe6 (Goe6);Goe6;ASR76791.1;P+
+Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;-;Salasmaviridae;Salasvirus;S. PZA (PZA);PZA;UIS65818.1;P+
+Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;-;Salasmaviridae;Salasvirus;S. TBA3 (TBA3);TBA3;UKM96374.1;P+
+Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;-;Salasmaviridae;Salasvirus;S. Gxv1 (Gxv1);Gxv1;YP_009910661.1;P+
+Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;-;Salasmaviridae;Salasvirus;Bacillus phage BSP11 (BSP11);BSP11;AYJ76434.1;P+
+Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;-;Salasmaviridae;Cepunavirus;C. Cp1 (Cp1);Cp1;NP_044816.1;P+
+Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;-;Salasmaviridae;Cepunavirus;C. Cp7 (Cp7);Cp7;YP_009623586.1;P+
+Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;-;Salasmaviridae;Huangshavirus;H. dlcuna (DLc1);DLc1;QOR56267.1;P+
+Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;-;Salasmaviridae;Claudivirus;C. konjotrouble (VioletteMad);VioletteMad;QDH50296.1;P+
+Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;-;Salasmaviridae;Claudivirus;C. serpounce (SerPounce);SerPounce;ARQ95549.1;P+
+Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;-;Salasmaviridae;Claudivirus;C. claudi (Claudi);Claudi;ANT41168.1;P+
+Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;-;Salasmaviridae;Claudivirus;C. aurora (Aurora);Aurora;ANT41127.1;P+
+Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;-;Salasmaviridae;Claudivirus;C. stitch (Ademby);Ademby;UIS65851.1;P+
+Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;-;Salasmaviridae;Claudivirus;C. thornton (Thornton);Thornton;QQM15006.1;P+
+Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;-;Salasmaviridae;Claudivirus;C. baseballfield (Baseball_field);Baseball_field;QOC56864.1;P+
+Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;-;Salasmaviridae;Claudivirus;C. juan (Juan);Juan;ASU04100.1;P+
+Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;-;Salasmaviridae;Claudivirus;C. QCM11 (QCM11);QCM11;AOZ62223.1;P+
+Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;-;Salasmaviridae;Harambevirus;H. harambe (Harambe);Harambe;ARM70153.1;P+
+Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;-;Salasmaviridae;Harambevirus;H. beachbum (BeachBum);BeachBum;ARQ95229.1;P+
+Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;-;Salasmaviridae;Bundooravirus;B. whyphy (WhyPhy);WhyPhy;QQO40336.1;P+
+Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;-;Salasmaviridae;Bundooravirus;B. PumA2 (PumA2);PumA2;QGH74229.1;P+
+Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;-;Salasmaviridae;Bundooravirus;B. PumA1 (PumA1);PumA1;QGH74201.1;P+
+Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;-;Salasmaviridae;Hemphilivirus;H. bece5 (BC-5);BC-5;WCR32926.1;P+
+Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;-;Salasmaviridae;Hemphilivirus;H. DK3 (DK3);DK3;AZU99818.1;P+
+Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;-;Salasmaviridae;Hemphilivirus;Bacillus phage DLn1 (DLn1);DLn1;QWT50655.1;P+
+Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;-;Salasmaviridae;Beecentumtrevirus;B. Nf (Nf);Nf;ACH57070.1;P+
+Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;-;Salasmaviridae;Beecentumtrevirus;B. B103 (B103);B103;CAA67650.1;P+
+Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;-;Salasmaviridae;Beecentumtrevirus;B. Goe1 (Goe1);Goe1;YP_009910695.1;P+
+Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;-;Salasmaviridae;Beecentumtrevirus;vB_Bsu_hmny2 (hmny2);hmny2;WWT42417.1;P+
+Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;-;Salasmaviridae;Beecentumtrevirus;B. BSP11 (BSP11);BSP11;AYJ76434.1;P+
+Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;-;Salasmaviridae;Klosterneuburgvirus;K. MGB1 (MG-B1);MG-B1;AGI10604.1;P+
+Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;-;Salasmaviridae;Karezivirus;K. karezi (Karezi);Karezi;YP_009910547.1;P+
+Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;-;Salasmaviridae;Gaunavirus;G. SRT01hs (SRT01hs);SRT01hs;YP_009910647.1;P+
+Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;-;Salasmaviridae;Gaunavirus;G. GA1 (GA1);GA1;NP_073686.1;P+
+Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;-;Salasmaviridae;Mingyongvirus;M. VMY22 (VMY22);VMY22;YP_009198013.1;P+
+Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;-;Salasmaviridae;-;vB_BceP_LY3 (LY3);LY3;USL89528.1;P+
+Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;-;Salasmaviridae;-;Bacillus phage Chedec 11 (Chedec11);Chedec11;UOX39806.1;P+
+Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;-;Salasmaviridae;-;Cytobacillus phage Bfsp1 (Bfsp1);Bfsp1;UTC25166.1;P+
+Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;-;Kyanoviridae;-;Synechococcus ph. DSL-LC02;DSL-LC02;WJZ48272.1;P+
+Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;-;Kyanoviridae;-;Synechococcus ph. S-SCSM1;S-SCSM1;YP_010669901.1;P+
+Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;-;Kyanoviridae;-;Staphylococcus ph. S-CREM2;S-CREM2;WNL51121.1;P+
+Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;-;Straboviridae;Tequatrovirus;Escherichia phage W143 (W143);W143;QWV60492.1;P-
+Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;-;Straboviridae;Tequatrovirus;T. ecomime340 (Ecomime340)*;Ecomime340;QWY90515.1;P-
+Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;-;Straboviridae;Tequatrovirus;Salmonella phage Lv5cm (Lv5cm);Lv5cm;QVW08953.1;P-
+Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;-;Straboviridae;Tequatrovirus;Escherichia ph. 235Ecol030PP;235Ecol030PP;WZX06398.1;P-
+Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;-;Straboviridae;Dhakavirus;Escherichia phage C6 (C6);C6;QVW28301.1;P-
+Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;-;Straboviridae;Hadassahvirus;Acinetobacter ph. Mokit (Mokit);Mokit;QQO96601.1;P-
+Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;-;Mesyanzhinovviridae;Yuavirus;Pseudomonas ph. Epa38 (Epa38);Epa38;QIQ65827.1;P-
+Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;-;Mesyanzhinovviridae;-;Pseudomonas ph. Epa19 (Epa19);Epa19;QIQ65266.1;P-
+Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;-;-;Menderavirus;M. Moby (Moby);Moby;QFR57941.1;P-
+Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;-;-;Saundersvirus;S. Tp84 (Tp84);Tp84;TP+pPolBphi;P+
+Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;-;-;Dybvigvirus;D. Av1 (Av-1);Av-1;YP_001333658.1;P+
+Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;-;-;Nankovirus;N. G1 (Epa26/G1);G1;QIQ65592.1;P-
+Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;-;-;Septimatrevirus;S. epa40 (Epa40);Epa40;YP_010597671.1;P-
+Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;-;-;Pbunavirus;P. EPa61 (EPa61);EPa61;QIQ65916.1;P-
+Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;-;-;Pbunavirus;P. LS1 (LS1);LS1;QIQ65405.1;P-
+Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;-;-;Anjalivirus;Arthrobacter phage Tillums (Tillums);Tillums;WNT44579.1;P+
+Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;-;-;Muldoonvirus;M. muldoon (Muldoon);Muldoon;QFR56103.1;P-
+Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;-;-;Muldoonvirus;Serratia phage SP1 (SP1);SP1;UNA02511.1;P-
+Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;-;-;-;Aci01-2-Phanie (Phanie);Phanie;OX458330phi;P-
+Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;-;-;-;Acinetobacter phage 5W (5W);5W;phi;P-
+Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;-;-;-;Curtobacterium phage Ayka (Ayka);Ayka;URG18047.1;P+
+Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;-;-;-;Microbacterium ph. PineapplePizza;PineapplePizza;UVF60412.1;P+
+Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;-;-;-;Microbacterium ph. Evcara (Evcara);Evcara;XGU07810.1;P+
+Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;-;-;-;Microbacterium phage Curie (Curie);Curie;WVX89719.1;P+
+Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;-;-;-;Glutamibacter ph. Voltaire (Voltaire);Voltaire;YP_010756039.1;P+
+Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;-;-;-;Weissella phage phiYS61 (phiYS61);phiYS61;YP_006560295.1;P+
+Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;-;-;-;Podoviridae sp. ctnWS46 (ctnWS46);ctnWS46;DAF56532.1;P
+Baltimore_I*;-;-;-;-;Ampullaviridae;Bottigliavirus;B. pozzuoliense (ABV);ABV;A4ZU93.1;A
+Baltimore_I*;-;-;-;-;Halspiviridae;Salterprovirus;S. His1 (His1);His1;YP_529523.1;A
+Baltimore_I*;-;-;-;-;-;-;vB_Bco-CSP1 (CSP1);CSP1;WFS72490.1;P-
+Baltimore_I*;-;-;-;-;-;-;vB_BthP-HD73phi (HD73phi);HD73phi;AZV00069.1;P+
+Baltimore_I*;-;-;-;-;-;-;Arthrobacter phage Swim (Swim);Swim;XEN16981.1;P+
+Baltimore_I*;-;-;-;-;-;-;Erwinia phage COW86c (COW86c);COW86c;WZB37619.1;P-
