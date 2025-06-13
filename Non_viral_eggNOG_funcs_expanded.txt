@@ -1,0 +1,318 @@
+domain, Protein
+NOVQVVKF
+nan
+Adenoviral DNA terminal protein
+Periplasmic copper-binding protein (NosD)
+nan
+nan
+nan
+Domain of unknown function DUF83
+Periplasmic copper-binding protein (NosD)
+glycerophosphodiester phosphodiesterase activity
+CRISPR-associated protein Cas4
+ATP-dependent DNA helicase activity
+nan
+nan
+ATP-dependent helicase nuclease subunit A
+Domain of unknown function DUF83
+nan
+-
+Belongs to the helicase family. UvrD subfamily
+TIGRFAM CRISPR-associated protein Cas4
+nan
+nan
+nan
+Adenoviral DNA terminal protein
+nan
+nan
+nan
+nan
+epimerase dehydratase
+Domain of unknown function DUF83
+Right handed beta helix region
+nan
+nan
+nan
+CRISPR-associated protein Cas4
+nan
+Glycosyl hydrolases family 28
+nan
+nan
+nan
+Pectate lyase superfamily protein
+Glycosyl hydrolases family 28
+nan
+nan
+Glycosyl hydrolases family 28
+CRISPR-associated protein Cas4
+nan
+nan
+nan
+nan
+-
+Glycosyl hydrolases family 28
+nan
+nan
+PD-(D/E)XK nuclease superfamily
+nan
+ATP-dependent helicase nuclease subunit A
+Protein conserved in bacteria
+PD-(D/E)XK nuclease superfamily
+SPTR CRISPR-associated exonuclease, Cas4 family
+nan
+nan
+nan
+nan
+nan
+nan
+Exonuclease V - a 5' deoxyribonuclease
+nan
+nan
+PD-(D/E)XK nuclease superfamily
+Belongs to the glycosyl hydrolase 28 family
+nan
+nan
+ATP-dependent helicase nuclease subunit A
+nan
+PD-(D/E)XK nuclease superfamily
+nan
+Contains the following InterPro domains Pectin lyase fold virulence factor (InterPro IPR011050), Pectin lyase fold (InterPro IPR012334), Glycoside hydrolase, family 28 (InterPro IPR000743), Parallel beta-helix repeat (InterPro IPR006626)
+nan
+nan
+nan
+Adenoviral DNA terminal protein
+nan
+PD-(D/E)XK nuclease superfamily
+Belongs to the helicase family. UvrD subfamily
+nan
+Evidence 4 Homologs of previously reported genes of
+Belongs to the helicase family. UvrD subfamily
+Domain of unknown function DUF83
+nan
+ATP-dependent DNA helicase activity
+nan
+nan
+nan
+nan
+Domain of unknown function DUF83
+Glycosyl hydrolases family 28
+nan
+Belongs to the helicase family. UvrD subfamily
+Belongs to the helicase family. UvrD subfamily
+Exonuclease V - a 5' deoxyribonuclease
+nan
+nan
+PD-(D/E)XK nuclease superfamily
+nan
+Domain of unknown function DUF83
+Belongs to the helicase family. UvrD subfamily
+Adenoviral DNA terminal protein
+nan
+nan
+nan
+Belongs to the helicase family. UvrD subfamily
+Belongs to the helicase family. UvrD subfamily
+nan
+PD-(D/E)XK nuclease superfamily
+nan
+nan
+nan
+PD-(D/E)XK nuclease superfamily
+nan
+Adenoviral DNA terminal protein
+nan
+nan
+Belongs to the helicase family. UvrD subfamily
+Adenoviral DNA terminal protein
+Domain of unknown function DUF83
+nan
+UvrD-like helicase C-terminal domain
+Periplasmic copper-binding protein (NosD)
+Domain of unknown function DUF83
+Belongs to the glycosyl hydrolase 28 family
+Belongs to the helicase family. UvrD subfamily
+nan
+CRISPR-associated protein Cas4
+nan
+Pectate lyase superfamily protein
+Adenoviral DNA terminal protein
+nan
+Adenoviral DNA terminal protein
+nan
+nan
+Glycoside hydrolase family 55 protein
+nan
+nan
+nan
+nan
+ATP-dependent helicase nuclease subunit A
+nan
+nan
+Belongs to the helicase family. UvrD subfamily
+CRISPR-associated protein Cas4
+nan
+nan
+nan
+PDDEXK-like domain of unknown function (DUF3799)
+UvrD/REP helicase N-terminal domain
+nan
+nan
+nan
+Gene with more than two copies in the genome that does not belong to a merged region and that could not be assigned to a particular haplotype
+nan
+nan
+nan
+nan
+ATP-dependent DNA helicase activity
+TIGRFAM CRISPR-associated protein Cas4
+nan
+Periplasmic copper-binding protein (NosD)
+nan
+UvrD-like helicase C-terminal domain
+nan
+Belongs to the helicase family. UvrD subfamily
+nan
+Type I restriction enzyme R protein N terminus (HSDR_N)
+Domain of unknown function DUF83
+nan
+nan
+nan
+PD-(D/E)XK nuclease superfamily
+nan
+nan
+nan
+nan
+Adenoviral DNA terminal protein
+ATP-dependent DNA helicase activity
+Domain of unknown function DUF83
+Adenoviral DNA terminal protein
+nan
+nan
+nan
+Adenoviral DNA terminal protein
+nan
+Belongs to the glycosyl hydrolase 28 family
+-
+nan
+COG3893 inactivated superfamily I helicase
+PD-(D/E)XK nuclease superfamily
+nan
+CRISPR-associated protein Cas4
+Protein of unknown function (DUF559)
+nan
+CRISPR-associated protein Cas4
+nan
+Down syndrome cell adhesion molecule
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+Belongs to the helicase family. UvrD subfamily
+Belongs to the helicase family. UvrD subfamily
+DNA catabolic process, exonucleolytic
+nan
+nan
+DEAD_2
+nan
+nan
+nan
+PD-(D/E)XK nuclease superfamily
+Protein conserved in bacteria
+Adenoviral DNA terminal protein
+nan
+Periplasmic copper-binding protein (NosD)
+nan
+nan
+nan
+Periplasmic copper-binding protein (NosD)
+nan
+nan
+-
+Belongs to the helicase family. UvrD subfamily
+nan
+Pectate lyase superfamily protein
+Domain of unknown function DUF83
+nan
+Adenoviral DNA terminal protein
+Belongs to the helicase family. UvrD subfamily
+PD-(D/E)XK nuclease superfamily
+nan
+nan
+Belongs to the helicase family. UvrD subfamily
+nan
+nan
+nan
+Domain of unknown function DUF83
+Pectate lyase superfamily protein
+nan
+NOVQVVKF
+Belongs to the glycosyl hydrolase 28 family
+DNA catabolic process, exonucleolytic
+nan
+Exonuclease 5
+nan
+nan
+DEAD_2
+nan
+nan
+Pectate lyase superfamily protein
+nan
+nan
+nan
+nan
+nan
+COG1199 Rad3-related DNA helicases
+nan
+Transcriptional regulator
+PD-(D/E)XK nuclease superfamily
+PD-(D/E)XK nuclease superfamily
+nan
+nan
+nan
+nan
+Protein conserved in bacteria
+CRISPR-associated protein Cas4
+nan
+nan
+PD-(D/E)XK nuclease superfamily
+nan
+nan
+nan
+nan
+nan
+nan
+nan
+Belongs to the helicase family. UvrD subfamily
+ATP-dependent DNA helicase activity
+ATP-dependent DNA helicase activity
+nan
+nan
+Domain of unknown function DUF83
+nan
+nan
+nan
+nan
+Belongs to the glycosyl hydrolase 28 family
+UvrD REP helicase
+Adenoviral DNA terminal protein
+Adenoviral DNA terminal protein
+nan
+nan
+nan
+Domain of unknown function DUF83
+Domain of unknown function DUF83
+nan
+-
+Domain of unknown function DUF83
+Glycosyl hydrolases family 28
+nan
+nan
+nan
+Pectate lyase superfamily protein
+Glucan 1,3-beta-glucosidase
+nan
+nan
+nan
