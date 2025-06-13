@@ -1,0 +1,49 @@
+## Fri Mar 14 12:04:33 2025
+## emapper-2.1.12
+## /data/shared/home/emapper/miniconda3/envs/eggnog-mapper-2.1/bin/emapper.py --cpu 20 --mp_start_method forkserver --data_dir /dev/shm/ -o out --output_dir /emapper_web_jobs/emapper_jobs/user_data/MM_jdobjkpu --temp_dir /emapper_web_jobs/emapper_jobs/user_data/MM_jdobjkpu --override -m novel_fams --dmnd_ignore_warnings --dmnd_algo ctg -i /emapper_web_jobs/emapper_jobs/user_data/MM_jdobjkpu/queries.fasta --evalue 0.001 --score 60 --pident 40 --query_cover 20 --subject_cover 20 --itype proteins --tax_scope auto --target_orthologs all --go_evidence non-electronic --pfam_realign none
+##
+query	target	evalue	score	novel_fam	best_neigh_predicted_pathways	best_neigh_score	plddt	best_structural_pdb_matches	best_pdb_evalue	best_structural_uniprot_matches	best_uniprot_evalue	has_signal_peptide	has_TM_domains	is_AMP
+UVY45549.1	GMGBhq@GMBC10.026_975@GMBC10.026_975_00882@d__Bacteria|p__Firmicutes	8.75e-176	490.0	NOV3U2RV	-	-	-	-	-	-	-	False	False	False
+MDY5996077.1	GMGBhq@GMBC10.039_862@GMBC10.039_862_00853@d__Bacteria|p__Firmicutes	5.17e-127	365.0	NOVRBAUE	-	-	-	-	-	-	-	False	False	False
+DAV45373.1	GEM@3300029408_7@3300029408_7_01589@d__Bacteria|p__Actinobacteriota	4.88e-124	356.0	NOVVKA6S	-	-	87.0	Primer terminal protein (TP) (DNA terminal protein) (Gene product 3) (gp3) (Protein p3) (Terminal protein)|260	0.0002888	-	-	False	False	False
+MBO7692632.1	GMGBhq@GMBC10.041_248@GMBC10.041_248_00865@d__Bacteria|p__Firmicutes_A	1.84e-121	351.0	NOV8BIW6	-	-	-	-	-	-	-	False	False	False
+MBS6155499.1	GEM@3300029408_7@3300029408_7_01589@d__Bacteria|p__Actinobacteriota	1.62e-55	182.0	NOVVKA6S	-	-	87.0	Primer terminal protein (TP) (DNA terminal protein) (Gene product 3) (gp3) (Protein p3) (Terminal protein)|260	0.0002888	-	-	False	False	False
+DAX11125.1	GEM@3300029408_7@3300029408_7_01589@d__Bacteria|p__Actinobacteriota	6.77e-55	181.0	NOVVKA6S	-	-	87.0	Primer terminal protein (TP) (DNA terminal protein) (Gene product 3) (gp3) (Protein p3) (Terminal protein)|260	0.0002888	-	-	False	False	False
+MBO7308554.1	GMGBhq@GMBC10.039_862@GMBC10.039_862_02000@d__Bacteria|p__Firmicutes	1.68e-10	65.1	NOVRBAUE	-	-	-	-	-	-	-	False	False	False
+MBR2652485.1	GMGBhq@GMBC10.079_462@GMBC10.079_462_01352@d__Bacteria|p__Firmicutes	1.91e-62	201.0	NOVRBAUE	-	-	-	-	-	-	-	False	False	False
+MBR3116424.1	GMGBhq@GMBC10.041_248@GMBC10.041_248_00865@d__Bacteria|p__Firmicutes_A	7.64e-51	171.0	NOV8BIW6	-	-	-	-	-	-	-	False	False	False
+MBR2857686.1	GMGBhq@GMBC10.039_862@GMBC10.039_862_00853@d__Bacteria|p__Firmicutes	1.58e-91	275.0	NOVRBAUE	-	-	-	-	-	-	-	False	False	False
+DAH77864.1	UHGG@MGYG-HGUT-01053@GUT_GENOME072376_00034@d__Bacteria|p__Firmicutes	4.65e-13	71.6	NOVTOAE9	-	-	-	-	-	-	-	False	False	False
+MDY2575742.1	GEM@3300023034_1@3300023034_1_01016@d__Bacteria|p__Fibrobacterota	2.13e-10	64.3	NOV8BIW6	-	-	-	-	-	-	-	False	False	False
+DAQ54201.1	UHGG@MGYG-HGUT-04423@GUT_GENOME274043_01044@d__Bacteria|p__Firmicutes	7.1e-52	174.0	NOV3U2RV	-	-	-	-	-	-	-	False	False	False
+DAI65264.1	GMGBhq@GMBC10.039_862@GMBC10.039_862_00853@d__Bacteria|p__Firmicutes	1.17e-74	232.0	NOVRBAUE	-	-	-	-	-	-	-	False	False	False
+DAD72321.1	UHGG@MGYG-HGUT-01053@GUT_GENOME072376_00034@d__Bacteria|p__Firmicutes	3.79e-174	483.0	NOVTOAE9	-	-	-	-	-	-	-	False	False	False
+MBR4003570.1	GEM@3300023034_1@3300023034_1_01016@d__Bacteria|p__Fibrobacterota	2.17e-58	190.0	NOV8BIW6	-	-	-	-	-	-	-	False	False	False
+DAM30808.1	GMGBhq@GMBC10.041_248@GMBC10.041_248_00865@d__Bacteria|p__Firmicutes_A	4.5e-61	197.0	NOV8BIW6	-	-	-	-	-	-	-	False	False	False
+DAU73763.1	GMGBhq@GMBC10.039_862@GMBC10.039_862_02000@d__Bacteria|p__Firmicutes	6.22e-13	71.6	NOVRBAUE	-	-	-	-	-	-	-	False	False	False
+DAL90500.1	UHGG@MGYG-HGUT-03606@GUT_GENOME237840_01348@d__Bacteria|p__Firmicutes	1.77e-09	61.6	NOV8BIW6	-	-	-	-	-	-	-	False	False	False
+MBO7044288.1	UHGG@MGYG-HGUT-03606@GUT_GENOME237840_01105@d__Bacteria|p__Firmicutes	2.86e-51	172.0	NOVRBAUE	-	-	-	-	-	-	-	False	False	False
+MBP5362725.1	GMGBhq@GMBC10.004_840@GMBC10.004_840_00737@d__Bacteria|p__Firmicutes	2.55e-12	70.5	NOVTOAE9	-	-	-	-	-	-	-	False	False	False
+MBQ1551692.1	GMGBhq@GMBC10.039_862@GMBC10.039_862_00853@d__Bacteria|p__Firmicutes	4.68e-81	249.0	NOVRBAUE	-	-	-	-	-	-	-	False	False	False
+MCI7039835.1	GMGBhq@GMBC10.039_862@GMBC10.039_862_00853@d__Bacteria|p__Firmicutes	1.09e-90	273.0	NOVRBAUE	-	-	-	-	-	-	-	False	False	False
+UWD67627.1	GMGBhq@GMBC10.017_387@GMBC10.017_387_00533@d__Bacteria|p__Firmicutes	1.03e-48	164.0	NOVVKA6S	-	-	87.0	Primer terminal protein (TP) (DNA terminal protein) (Gene product 3) (gp3) (Protein p3) (Terminal protein)|260	0.0002888	-	-	False	False	False
+DAO82390.1	GMGBhq@GMBC10.023_453@GMBC10.023_453_01108@d__Bacteria|p__Firmicutes	3.73e-57	186.0	NOVTOAE9	-	-	-	-	-	-	-	False	False	False
+DAP98441.1	GMGBhq@GMBC10.051_340@GMBC10.051_340_01861@d__Bacteria|p__Bacteroidota	1.37e-167	466.0	NOVX1VXG	-	-	-	-	-	-	-	False	False	False
+DAW59525.1	GMGBhq@GMBC10.004_840@GMBC10.004_840_00737@d__Bacteria|p__Firmicutes	1.19e-49	167.0	NOVTOAE9	-	-	-	-	-	-	-	False	False	False
+DAG82535.1	GEM@3300008672_32@3300008672_32_00856@d__Bacteria|p__Firmicutes_A	2.04e-166	462.0	NOVREAUA	-	-	89.3	Primer terminal protein (TP) (DNA terminal protein) (Gene product 3) (gp3) (Protein p3) (Terminal protein)|288	0.0002096	-	-	False	False	False
+WP_308698242.1	GMGBhq@GMBC10.004_840@GMBC10.004_840_00737@d__Bacteria|p__Firmicutes	8.66e-168	466.0	NOVTOAE9	-	-	-	-	-	-	-	False	False	False
+DAU65350.1	GMGBhq@GMBC10.004_840@GMBC10.004_840_00737@d__Bacteria|p__Firmicutes	5.61e-55	180.0	NOVTOAE9	-	-	-	-	-	-	-	False	False	False
+DAM29426.1	GMGBhq@GMBC10.023_453@GMBC10.023_453_01108@d__Bacteria|p__Firmicutes	1.96e-59	192.0	NOVTOAE9	-	-	-	-	-	-	-	False	False	False
+DAK66860.1	GMGBhq@GMBC10.004_840@GMBC10.004_840_00737@d__Bacteria|p__Firmicutes	4.84e-42	147.0	NOVTOAE9	-	-	-	-	-	-	-	False	False	False
+DAE89209.1	GMGBhq@GMBC10.032_528@GMBC10.032_528_02266@d__Bacteria|p__Firmicutes	2.64e-159	445.0	NOVTOAE9	-	-	-	-	-	-	-	False	False	False
+MCK4382741.1	GTDBiso@GB_GCA_005223125@NJBH01000010.1_33@d__Archaea|p__Asgardarchaeota	1.69e-136	387.0	NOVQVVKF	-	-	-	-	-	-	-	False	False	False
+MBO7694214.1	GMGBhq@GMBC10.039_862@GMBC10.039_862_00853@d__Bacteria|p__Firmicutes	9.32e-97	289.0	NOVRBAUE	-	-	-	-	-	-	-	False	False	False
+MBO7716198.1	GMGBhq@GMBC10.039_862@GMBC10.039_862_02000@d__Bacteria|p__Firmicutes	1.53e-11	68.2	NOVRBAUE	-	-	-	-	-	-	-	False	False	False
+QAU04553.1	GEM@3300000200_3@3300000200_3_00105@d__Bacteria|p__Campylobacterota	1.43e-25	108.0	NOVBYDJM	-	-	85.1	-	-	Zinc finger protein 521|230	0.0002338	False	False	False
+YP_004934471.1	GEM@3300013123_163@3300013123_163_00017@d__Bacteria|p__Patescibacteria	2.1e-51	171.0	NOVG0224	-	-	68.3	SET and RING associated domain-containing protein|229	0.0008771	-	-	False	False	False
+TXT63892.1	GTDBiso@GB_GCA_004524535@SDNY01000009.1_33@d__Archaea|p__Asgardarchaeota	4.68e-84	254.0	NOVQVVKF	-	-	-	-	-	-	-	False	False	False
+DAR38304.1	GEM@3300002168_35@3300002168_35_00033@d__Bacteria|p__Firmicutes	1.17e-132	413.0	NOVG0224	-	-	68.3	SET and RING associated domain-containing protein|229	0.0008771	-	-	False	False	False
+ARF12305.1	GEM@3300025708_46@3300025708_46_00021@d__Bacteria|p__Firmicutes_A	4.5e-13	72.8	NOVBYDJM	-	-	85.1	-	-	Zinc finger protein 521|230	0.0002338	False	False	False
+## 41 queries scanned
+## Total time (seconds): 51.712791204452515
+## Rate: 0.79 q/s
