@@ -1,0 +1,1328 @@
+seq_name	length	topology	coordinates	n_genes	genetic_code	virus_score	fdr	n_hallmarks	marker_enrichment	taxonomy
+NC_048023.1	39747	DTR	NA	53	11	0.9997	0.0003	22	79.1241	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Autographiviridae
+NC_028800.1	41698	DTR	NA	48	11	0.9997	0.0003	23	77.3035	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Autographiviridae
+MZ223858.1	39701	No terminal repeats	NA	50	11	0.9997	0.0003	20	74.4148	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Autographiviridae
+NC_048175.1	40599	No terminal repeats	NA	46	11	0.9997	0.0003	22	73.0386	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Autographiviridae
+MK380014.1	44122	DTR	NA	51	11	0.9997	0.0003	18	76.9250	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Autographiviridae
+NC_048172.1	43264	No terminal repeats	NA	54	11	0.9997	0.0003	7	86.8091	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Autographiviridae
+LR798307.1	33590	No terminal repeats	NA	52	11	0.9997	0.0003	9	77.1883	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MZ234012.1	44450	No terminal repeats	NA	52	11	0.9997	0.0003	17	80.8128	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Autographiviridae
+LR798217.1	37569	No terminal repeats	NA	48	11	0.9997	0.0003	5	72.3693	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+PAZU01000056.1	35836	No terminal repeats	NA	47	11	0.9997	0.0003	6	71.9783	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Kyanoviridae
+JAOJPH010000009.1	48487	No terminal repeats	NA	84	11	0.9997	0.0003	10	113.4835	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAOGBL010000005.1	42897	No terminal repeats	NA	35	11	0.9997	0.0003	3	56.8286	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_047772.1	40395	DTR	NA	53	11	0.9997	0.0003	22	76.5536	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Autographiviridae
+MK892701.1	30192	No terminal repeats	NA	46	11	0.9997	0.0003	4	68.3164	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_047799.1	40163	DTR	NA	48	11	0.9997	0.0003	22	70.8920	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Autographiviridae
+DPNL01000160.1	8152	No terminal repeats	NA	10	11	0.9997	0.0003	4	17.1828	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+LR796580.1	34685	No terminal repeats	NA	51	11	0.9997	0.0003	12	79.5289	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MZ868724.1	41477	DTR	NA	48	11	0.9997	0.0003	7	58.4970	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Autographiviridae
+NC_025450.1	44366	DTR	NA	53	11	0.9997	0.0003	14	65.1781	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Autographiviridae
+NC_020484.1	48915	No terminal repeats	NA	57	11	0.9997	0.0003	9	81.3078	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+LR796715.1	33954	No terminal repeats	NA	52	11	0.9997	0.0003	7	69.4002	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MK892485.1	38309	No terminal repeats	NA	44	11	0.9997	0.0003	8	58.3777	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Autographiviridae
+OR473000.1	53621	No terminal repeats	NA	66	11	0.9997	0.0003	10	95.9456	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Kyanoviridae
+LR798234.1	35657	No terminal repeats	NA	60	11	0.9997	0.0003	5	78.6888	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_070873.1	40762	No terminal repeats	NA	34	11	0.9997	0.0003	3	53.0210	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Schitoviridae
+LR797817.1	31410	No terminal repeats	NA	51	11	0.9997	0.0003	6	67.4584	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_023005.1	41386	DTR	NA	51	11	0.9997	0.0003	16	62.7742	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Autographiviridae
+NC_025822.1	42544	No terminal repeats	NA	45	11	0.9997	0.0003	11	63.9571	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Autographiviridae
+NC_042006.1	41208	No terminal repeats	NA	49	11	0.9997	0.0003	7	60.2153	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Autographiviridae
+MW366784.1	41264	No terminal repeats	NA	49	11	0.9997	0.0003	7	59.8455	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Autographiviridae
+MH669274.1	38031	No terminal repeats	NA	27	11	0.9997	0.0003	3	41.4811	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Schitoviridae
+OR003940.1	37569	No terminal repeats	NA	59	11	0.9997	0.0003	6	84.2345	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_070991.1	43141	No terminal repeats	NA	57	11	0.9997	0.0003	6	83.5247	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MK373771.1	45130	DTR	NA	50	11	0.9997	0.0003	17	77.6943	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Autographiviridae
+NC_070984.1	43141	No terminal repeats	NA	56	11	0.9997	0.0003	7	80.7405	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAONWZ010000002.1	49435	No terminal repeats	NA	63	11	0.9997	0.0003	13	91.5885	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_005260.1	60998	No terminal repeats	NA	82	11	0.9997	0.0003	16	125.5940	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Straboviridae
+NZHF01000041.1	14645	No terminal repeats	NA	14	11	0.9997	0.0003	5	23.4210	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Kyanoviridae
+BK027723.1	15963	No terminal repeats	NA	22	11	0.9997	0.0003	6	25.7805	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZZP01000035.1	8570	No terminal repeats	NA	10	11	0.9997	0.0003	4	17.1822	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Kyanoviridae
+GU943037.1	19265	No terminal repeats	NA	39	11	0.9997	0.0003	4	51.9104	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZYO01000025.1	15157	No terminal repeats	NA	34	11	0.9997	0.0003	4	53.3727	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_029070.1	41620	No terminal repeats	NA	47	11	0.9997	0.0003	10	59.2083	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Autographiviridae
+LR796246.1	45419	No terminal repeats	NA	65	11	0.9997	0.0003	7	82.2050	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MK089780.1	41767	DTR	NA	52	11	0.9997	0.0003	7	58.4970	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Autographiviridae
+DQKG01000082.1	8184	No terminal repeats	NA	9	11	0.9997	0.0003	4	15.4632	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MAXR01000078.1	6733	No terminal repeats	NA	16	11	0.9997	0.0003	2	17.9805	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JABJNM010000076.1	3203	No terminal repeats	NA	4	11	0.9997	0.0003	1	6.4399	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZEE01000076.1	6414	No terminal repeats	NA	8	11	0.9997	0.0003	3	11.4526	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MW030556.1	19104	No terminal repeats	NA	23	11	0.9997	0.0003	2	31.9934	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZRF01000269.1	8859	No terminal repeats	NA	15	11	0.9997	0.0003	0	21.1929	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+PAPZ01000020.1	23766	No terminal repeats	NA	21	11	0.9997	0.0003	5	30.2311	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_031935.1	33681	No terminal repeats	NA	24	11	0.9997	0.0003	6	39.3001	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Kyanoviridae
+NC_021337.1	31185	No terminal repeats	NA	28	11	0.9997	0.0003	6	35.6236	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Autographiviridae
+NC_055882.1	67670	No terminal repeats	NA	67	11	0.9997	0.0003	4	84.5065	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;Crassvirales;
+BK015936.1	28155	No terminal repeats	NA	37	11	0.9997	0.0003	12	52.5165	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_019420.1	41549	No terminal repeats	NA	46	11	0.9997	0.0003	3	62.9475	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZHO01000040.1	10279	No terminal repeats	NA	14	11	0.9997	0.0003	5	21.5433	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+AP013912.1	22367	No terminal repeats	NA	26	11	0.9997	0.0003	8	41.2593	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZRR01000013.1	10835	No terminal repeats	NA	11	11	0.9997	0.0003	4	18.4202	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Kyanoviridae
+JAOJJN010000001.1	60593	No terminal repeats	NA	69	11	0.9997	0.0003	14	83.8459	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MN380459.1	43329	DTR	NA	55	11	0.9997	0.0003	8	84.4409	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Autographiviridae
+NZRF01000219.1	36858	No terminal repeats	NA	49	11	0.9997	0.0003	6	71.7172	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+RGWU01000057.1	13147	No terminal repeats	NA	18	11	0.9997	0.0003	9	23.5382	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MT197175.1	44932	No terminal repeats	NA	57	11	0.9997	0.0003	9	89.0590	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Autographiviridae
+MT701589.1	44346	No terminal repeats	NA	55	11	0.9997	0.0003	9	82.2778	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Autographiviridae
+LR797193.1	36128	No terminal repeats	NA	33	11	0.9997	0.0003	6	31.8865	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZGQ01000097.1	59227	No terminal repeats	NA	69	11	0.9997	0.0003	13	104.8407	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MN516421.1	44227	No terminal repeats	NA	78	11	0.9997	0.0003	17	117.8338	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_047858.1	44601	No terminal repeats	NA	53	11	0.9997	0.0003	16	64.7727	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Autographiviridae
+JACNIA010000013.1	10907	No terminal repeats	NA	16	11	0.9997	0.0003	1	24.6701	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MN856111.1	7211	No terminal repeats	NA	7	11	0.9997	0.0003	3	9.3782	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Autographiviridae
+NZRF01000122.1	19912	No terminal repeats	NA	37	11	0.9997	0.0003	1	47.1736	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAOGXC010000005.1	27543	No terminal repeats	NA	36	11	0.9997	0.0003	10	56.3345	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_048854.1	45385	No terminal repeats	NA	69	11	0.9997	0.0003	8	87.2592	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+OR544955.1	61340	No terminal repeats	NA	96	11	0.9997	0.0003	30	137.9426	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Straboviridae
+LR796608.1	32060	No terminal repeats	NA	49	11	0.9997	0.0003	6	61.4487	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_028664.1	43963	No terminal repeats	NA	57	11	0.9997	0.0003	8	87.3431	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Autographiviridae
+NC_047746.1	44541	No terminal repeats	NA	47	11	0.9997	0.0003	10	64.2188	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Autographiviridae
+JACNGN010000036.1	2741	No terminal repeats	NA	4	11	0.9997	0.0003	2	6.3554	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+LC629609.1	60350	No terminal repeats	NA	83	11	0.9997	0.0003	7	118.7421	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Kyanoviridae
+MT682706.1	43757	No terminal repeats	NA	69	11	0.9997	0.0003	16	102.5275	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Drexlerviridae
+DNBQ01000113.1	4732	No terminal repeats	NA	5	11	0.9997	0.0003	2	8.5914	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+VAFL01000015.1	32623	No terminal repeats	NA	26	11	0.9997	0.0003	3	35.3959	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Schitoviridae
+KR029605.1	33963	No terminal repeats	NA	60	11	0.9997	0.0003	11	88.2970	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+DNBZ01000268.1	4810	No terminal repeats	NA	14	11	0.9997	0.0003	0	20.0353	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_041898.1	42765	No terminal repeats	NA	67	11	0.9997	0.0003	12	89.0092	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_CAXBCU010000052.1	24456	No terminal repeats	NA	29	11	0.9997	0.0003	0	38.6361	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_030920.1	61631	No terminal repeats	NA	56	11	0.9997	0.0003	7	63.4553	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Herelleviridae
+LC629456.1	60263	No terminal repeats	NA	111	11	0.9997	0.0003	13	125.9344	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Kyanoviridae
+NZIR01000025.1	20810	No terminal repeats	NA	34	11	0.9997	0.0003	5	50.6529	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Kyanoviridae
+NYZL01000005.1	19995	No terminal repeats	NA	33	11	0.9997	0.0003	2	29.2895	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+LR796537.1	42588	No terminal repeats	NA	52	11	0.9997	0.0003	11	61.0023	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Autographiviridae
+NC_041885.1	40556	DTR	NA	47	11	0.9997	0.0003	7	42.0272	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Autographiviridae
+NC_047748.1	43865	DTR	NA	57	11	0.9997	0.0003	8	86.5317	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Autographiviridae
+NC_049820.1	53145	No terminal repeats	NA	70	11	0.9997	0.0003	16	91.1831	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Drexlerviridae
+LC629471.1	60455	No terminal repeats	NA	85	11	0.9997	0.0003	8	131.5977	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Kyanoviridae
+NZAU01000044.1	14804	No terminal repeats	NA	13	11	0.9997	0.0003	4	21.8191	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Kyanoviridae
+BK041070.1	17839	No terminal repeats	NA	24	11	0.9997	0.0003	4	27.2450	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_047825.1	50526	No terminal repeats	NA	79	11	0.9997	0.0003	18	122.1838	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Drexlerviridae
+MK892636.1	39123	No terminal repeats	NA	41	11	0.9997	0.0003	3	43.4158	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZLH01000017.1	9182	No terminal repeats	NA	19	11	0.9997	0.0003	1	30.5033	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MK892772.1	53021	No terminal repeats	NA	73	11	0.9997	0.0003	5	71.2911	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MN807240.1	46759	No terminal repeats	NA	48	11	0.9997	0.0003	11	63.9571	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Autographiviridae
+NC_048029.1	43077	No terminal repeats	NA	51	11	0.9997	0.0003	7	48.6495	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Autographiviridae
+LR796745.1	42228	No terminal repeats	NA	45	11	0.9997	0.0003	5	49.0539	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_020845.1	60464	No terminal repeats	NA	105	11	0.9997	0.0003	11	161.7130	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+LC629476.1	48860	No terminal repeats	NA	69	11	0.9997	0.0003	5	72.2494	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_027374.1	62135	No terminal repeats	NA	59	11	0.9997	0.0003	10	71.0789	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Herelleviridae
+LR796186.1	56979	No terminal repeats	NA	70	11	0.9997	0.0003	14	85.7418	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MK373793.1	43157	No terminal repeats	NA	68	11	0.9997	0.0003	16	101.7877	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Drexlerviridae
+NC_028760.1	49037	No terminal repeats	NA	73	11	0.9997	0.0003	20	104.7498	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Drexlerviridae
+LC629477.1	60482	No terminal repeats	NA	102	11	0.9997	0.0003	9	130.2050	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Kyanoviridae
+LR796499.1	50091	No terminal repeats	NA	71	11	0.9997	0.0003	4	50.1602	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+OP272492.1	39290	No terminal repeats	NA	82	11	0.9997	0.0003	20	66.3100	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Autographiviridae
+DUHL01000228.1	6930	No terminal repeats	NA	10	11	0.9997	0.0003	2	11.5051	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MN940411.1	43051	No terminal repeats	NA	34	11	0.9997	0.0003	6	36.9124	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Herelleviridae
+RGWU01000192.1	5370	No terminal repeats	NA	7	11	0.9997	0.0003	2	9.7919	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+LR796860.1	59112	No terminal repeats	NA	90	11	0.9997	0.0003	17	110.8304	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_049509.1	34509	No terminal repeats	NA	37	11	0.9997	0.0003	8	52.1710	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Ackermannviridae
+MN855785.1	26816	No terminal repeats	NA	21	11	0.9997	0.0003	1	27.1600	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Schitoviridae
+NC_048684.1	45221	DTR	NA	60	11	0.9997	0.0003	7	84.7483	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_054969.1	38940	No terminal repeats	NA	28	11	0.9997	0.0003	3	31.8596	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Schitoviridae
+MW787012.1	49591	No terminal repeats	NA	52	11	0.9997	0.0003	6	63.4640	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Herelleviridae
+NC_023706.1	39099	No terminal repeats	NA	38	11	0.9997	0.0003	7	39.2438	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+LC629469.1	60473	No terminal repeats	NA	111	11	0.9997	0.0003	10	141.8692	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Kyanoviridae
+QMYQ01000066.1	5470	No terminal repeats	NA	13	11	0.9997	0.0003	0	15.9605	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MT909815.1	61046	No terminal repeats	NA	47	11	0.9997	0.0003	11	64.3418	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Herelleviridae
+JAONXH010000001.1	44638	No terminal repeats	NA	46	11	0.9997	0.0003	5	50.7843	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Schitoviridae
+LC663051.1	23605	No terminal repeats	NA	41	11	0.9997	0.0003	7	63.8457	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Kyanoviridae
+MK892710.1	47669	No terminal repeats	NA	50	11	0.9997	0.0003	5	59.0315	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Autographiviridae
+NZEU01000015.1	53735	No terminal repeats	NA	95	11	0.9997	0.0003	12	127.5173	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAOGWT010000005.1	11585	No terminal repeats	NA	15	11	0.9997	0.0003	6	21.8199	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+DAORWC010000233.1	3582	No terminal repeats	NA	6	11	0.9997	0.0003	0	6.5297	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZRF01000237.1	40401	No terminal repeats	NA	45	11	0.9997	0.0003	3	69.4802	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MG592403.1	43743	No terminal repeats	NA	50	11	0.9997	0.0003	11	66.7417	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK021570.1	17439	No terminal repeats	NA	28	11	0.9997	0.0003	5	24.2192	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+QLUM01000027.1	13709	No terminal repeats	NA	16	11	0.9997	0.0003	6	21.7641	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JACNHO010000033.1	6273	No terminal repeats	NA	8	11	0.9997	0.0003	3	12.7424	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+PCCC01000030.1	10647	No terminal repeats	NA	13	11	0.9997	0.0003	5	22.3209	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Kyanoviridae
+BK020549.1	16514	No terminal repeats	NA	24	11	0.9997	0.0003	5	18.9073	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_025436.1	61949	No terminal repeats	NA	83	11	0.9997	0.0003	6	94.2305	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MK892645.1	34340	No terminal repeats	NA	50	11	0.9997	0.0003	8	54.4405	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MK820013.2	45105	DTR	NA	48	11	0.9997	0.0003	10	65.1262	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Autographiviridae
+LR796392.1	34625	No terminal repeats	NA	52	11	0.9997	0.0003	11	68.6457	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NYWG01000192.1	25856	No terminal repeats	NA	37	11	0.9997	0.0003	6	60.9953	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Kyanoviridae
+JAOLCN010000001.1	60614	No terminal repeats	NA	65	11	0.9997	0.0003	6	94.0445	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+LR797122.1	33542	No terminal repeats	NA	49	11	0.9997	0.0003	4	67.8179	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_017980.1	18397	ITR	NA	27	11	0.9997	0.0003	5	30.2790	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Guelinviridae
+RGWU01000236.1	4590	No terminal repeats	NA	9	11	0.9997	0.0003	2	11.5102	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+LR796354.1	46610	No terminal repeats	NA	63	11	0.9997	0.0003	4	78.1810	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZMJ01000107.1	4024	No terminal repeats	NA	11	11	0.9997	0.0003	0	14.6240	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+LR797056.1	34665	No terminal repeats	NA	51	11	0.9997	0.0003	5	63.3243	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK018683.1	41658	No terminal repeats	NA	66	11	0.9997	0.0003	9	75.8381	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZRF01000035.1	18993	No terminal repeats	NA	22	11	0.9997	0.0003	1	31.2573	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_CP043865.1|provirus_17622_61884	44263	Provirus	17622-61884	66	11	0.9997	0.0003	2	92.9196	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Schitoviridae
+NC_031927.1	31310	No terminal repeats	NA	25	11	0.9997	0.0003	4	36.1926	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Kyanoviridae
+NZAX01000079.1	12953	No terminal repeats	NA	18	11	0.9997	0.0003	5	25.2121	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Kyanoviridae
+NC_041881.1	60647	No terminal repeats	NA	82	11	0.9997	0.0003	16	72.3299	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+KJ019146.1	31656	No terminal repeats	NA	33	11	0.9997	0.0003	5	39.2135	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Kyanoviridae
+LC629467.1	60476	No terminal repeats	NA	108	11	0.9997	0.0003	4	108.6594	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Kyanoviridae
+NC_020849.1	37308	No terminal repeats	NA	30	11	0.9997	0.0003	4	37.5667	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Schitoviridae
+MK892725.1	56719	No terminal repeats	NA	64	11	0.9997	0.0003	3	78.0375	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;Magrovirales;Aoguangviridae
+BK038159.1	15565	No terminal repeats	NA	21	11	0.9997	0.0003	6	26.9305	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_048174.1	43630	DTR	NA	56	11	0.9997	0.0003	7	71.3422	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Autographiviridae
+ABJPJW010000008.1	48469	No terminal repeats	NA	47	11	0.9997	0.0003	13	71.8948	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Ackermannviridae
+LR796508.1	31655	No terminal repeats	NA	56	11	0.9997	0.0003	7	64.1973	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_049415.1	30690	No terminal repeats	NA	50	11	0.9997	0.0003	11	78.3541	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_047832.1	37287	DTR	NA	40	11	0.9997	0.0003	18	47.3177	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Autographiviridae
+LC629461.1	60485	No terminal repeats	NA	107	11	0.9997	0.0003	9	121.3040	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Kyanoviridae
+QMPN01000228.1	5086	No terminal repeats	NA	7	11	0.9997	0.0003	0	8.1428	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Schitoviridae
+MZ577095.1	60593	No terminal repeats	NA	100	11	0.9997	0.0003	13	142.1701	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+LR797828.1	38302	No terminal repeats	NA	42	11	0.9997	0.0003	5	59.7873	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_047901.1	62306	No terminal repeats	NA	69	11	0.9997	0.0003	13	107.8237	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Ackermannviridae
+PAUJ01000027.1	41865	No terminal repeats	NA	46	11	0.9997	0.0003	6	73.8081	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MW590223.1	46217	No terminal repeats	NA	54	11	0.9997	0.0003	4	27.5422	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_021248.1	61028	No terminal repeats	NA	71	11	0.9997	0.0003	8	64.6803	Viruses;Varidnaviria;Bamfordvirae;Nucleocytoviricota;Pokkesviricetes;Chitovirales;Poxviridae
+NC_023556.1	38494	No terminal repeats	NA	34	11	0.9997	0.0003	4	42.6328	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Schitoviridae
+NC_041857.1	43665	No terminal repeats	NA	77	11	0.9997	0.0003	16	120.2701	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MK016664.1	44116	No terminal repeats	NA	67	11	0.9997	0.0003	10	82.0203	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Kyanoviridae
+NC_070869.1	38173	No terminal repeats	NA	31	11	0.9997	0.0003	3	45.0796	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Schitoviridae
+NC_030923.1	45417	No terminal repeats	NA	57	11	0.9997	0.0003	6	57.1325	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Autographiviridae
+LC629459.1	60254	No terminal repeats	NA	108	11	0.9997	0.0003	6	86.1697	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Kyanoviridae
+LR796401.1	33826	No terminal repeats	NA	52	11	0.9997	0.0003	11	56.7245	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK038911.1	14825	No terminal repeats	NA	17	11	0.9997	0.0003	3	18.5745	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+LR796423.1	60611	No terminal repeats	NA	64	11	0.9997	0.0003	8	61.4680	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK016274.1	16875	ITR	NA	23	11	0.9997	0.0003	5	21.5901	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+LR796291.1	31143	No terminal repeats	NA	56	11	0.9997	0.0003	9	47.1229	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_049469.1	45688	No terminal repeats	NA	41	11	0.9997	0.0003	4	37.1533	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Schitoviridae
+NC_015585.1	43032	No terminal repeats	NA	57	11	0.9997	0.0003	6	68.0239	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Autographiviridae
+JAYNMV010000157.1	2714	No terminal repeats	NA	5	11	0.9997	0.0003	2	8.0737	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Kyanoviridae
+NC_019454.1	44546	No terminal repeats	NA	56	11	0.9997	0.0003	7	61.1435	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Autographiviridae
+LR796302.1	45937	No terminal repeats	NA	63	11	0.9997	0.0003	6	71.3288	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MG592660.1	48275	No terminal repeats	NA	76	11	0.9997	0.0003	7	54.6922	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Zobellviridae
+LR798243.1	60899	No terminal repeats	NA	80	11	0.9997	0.0003	3	67.7976	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MF497422.1	43573	No terminal repeats	NA	58	11	0.9997	0.0003	5	40.5784	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NYUN01000042.1	9423	No terminal repeats	NA	8	11	0.9997	0.0003	0	7.9062	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+LR796710.1	32535	No terminal repeats	NA	54	11	0.9997	0.0003	11	58.2183	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JBEAXF010000266.1	3277	No terminal repeats	NA	6	11	0.9997	0.0003	2	9.7919	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Kyanoviridae
+MH153812.1	61889	No terminal repeats	NA	91	11	0.9997	0.0003	6	68.3938	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+LC629500.1	48474	No terminal repeats	NA	90	11	0.9997	0.0003	16	92.5450	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_021806.1	53619	No terminal repeats	NA	51	11	0.9997	0.0003	7	41.0142	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;Crassvirales;
+MK892641.1	42558	No terminal repeats	NA	49	11	0.9997	0.0003	5	42.3507	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+LR796861.1	60602	No terminal repeats	NA	87	11	0.9997	0.0003	13	86.9250	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_023856.1	62126	No terminal repeats	NA	63	11	0.9997	0.0003	15	94.6041	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Ackermannviridae
+NC_019452.1	61424	No terminal repeats	NA	67	11	0.9997	0.0003	18	99.4615	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Ackermannviridae
+NZ_RMVE01000006.1	60470	No terminal repeats	NA	76	11	0.9997	0.0003	6	118.9177	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Kyanoviridae
+MT104467.1	44816	No terminal repeats	NA	55	11	0.9997	0.0003	12	66.7655	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Autographiviridae
+PAYU01000046.1	42585	No terminal repeats	NA	44	11	0.9997	0.0003	20	55.4436	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Straboviridae
+MN585972.1	60191	No terminal repeats	NA	96	11	0.9997	0.0003	11	128.5037	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MK105819.1	39158	No terminal repeats	NA	65	11	0.9997	0.0003	12	76.6066	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MH719082.1	51845	No terminal repeats	NA	72	11	0.9997	0.0003	12	44.1413	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_047866.1	42167	No terminal repeats	NA	47	11	0.9997	0.0003	10	63.6412	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Autographiviridae
+LR797288.1	37329	No terminal repeats	NA	60	11	0.9997	0.0003	8	74.4382	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MW015080.1	45017	DTR	NA	49	11	0.9997	0.0003	5	68.2831	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Autographiviridae
+MG592456.1	57628	No terminal repeats	NA	57	11	0.9997	0.0003	15	74.2290	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Straboviridae
+NC_023587.1	32648	No terminal repeats	NA	27	11	0.9997	0.0003	5	43.8614	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Kyanoviridae
+NC_070967.1	60704	No terminal repeats	NA	72	11	0.9997	0.0003	1	30.9446	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_041887.1	60770	No terminal repeats	NA	94	11	0.9997	0.0003	6	65.0056	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAUKJI010000006.1	56647	No terminal repeats	NA	64	11	0.9997	0.0003	11	91.0275	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+HQ633061.1	60488	No terminal repeats	NA	81	11	0.9997	0.0003	10	114.0613	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Kyanoviridae
+NZ_JACBXL010000020.1|provirus_27_20435	20409	Provirus	27-20435	24	11	0.9997	0.0003	3	30.0203	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MK892746.1	21999	No terminal repeats	NA	19	11	0.9997	0.0003	4	23.4369	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MK875791.1	47197	No terminal repeats	NA	70	11	0.9997	0.0003	7	73.1718	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_042087.1	50971	No terminal repeats	NA	64	11	0.9997	0.0003	6	56.8253	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Zierdtviridae
+MT499896.1	61961	No terminal repeats	NA	69	11	0.9997	0.0003	17	103.2192	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Ackermannviridae
+JAFWJA010000010.1	16002	ITR	NA	24	11	0.9997	0.0003	4	22.1660	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_028966.1	61196	No terminal repeats	NA	86	11	0.9997	0.0003	5	89.9212	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+LR796364.1	41764	No terminal repeats	NA	54	11	0.9997	0.0003	10	63.8058	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Autographiviridae
+NC_009990.1	37313	No terminal repeats	NA	42	11	0.9997	0.0003	8	58.6386	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MT259468.1	41082	No terminal repeats	NA	50	11	0.9997	0.0003	7	49.0011	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Autographiviridae
+BK027879.1	14294	ITR	NA	19	11	0.9997	0.0003	5	17.8860	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MK892833.1	31784	No terminal repeats	NA	47	11	0.9997	0.0003	7	66.5664	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JABJEH010000061.1	7087	No terminal repeats	NA	11	11	0.9997	0.0003	5	14.9468	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_048650.1	35221	No terminal repeats	NA	50	11	0.9997	0.0003	5	38.8916	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZAB01000076.1	13297	No terminal repeats	NA	14	11	0.9997	0.0003	6	21.1443	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+RGCK01000002.1	41910	No terminal repeats	NA	38	11	0.9997	0.0003	10	45.4767	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MW001214.1	62090	No terminal repeats	NA	69	11	0.9997	0.0003	8	82.0931	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Herelleviridae
+OM982621.1	60611	No terminal repeats	NA	73	11	0.9997	0.0003	22	84.0526	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Straboviridae
+MG757155.1	42410	No terminal repeats	NA	37	11	0.9997	0.0003	7	53.9986	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK017887.1	36513	No terminal repeats	NA	42	11	0.9997	0.0003	4	48.9112	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+LR796815.1	48485	No terminal repeats	NA	65	11	0.9997	0.0003	14	80.4062	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZTQ01000021.1	13285	No terminal repeats	NA	21	11	0.9997	0.0003	5	28.3007	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_025429.1	60629	No terminal repeats	NA	90	11	0.9997	0.0003	14	92.5396	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Pootjesviridae
+JAAXKO010000157.1	4871	No terminal repeats	NA	6	11	0.9997	0.0003	3	10.0622	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Salasmaviridae
+JAOMZF010000002.1	61595	No terminal repeats	NA	75	11	0.9997	0.0003	6	102.8628	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MK892849.1	36817	No terminal repeats	NA	70	11	0.9997	0.0003	4	72.9937	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAKUQG010000222.1	2358	No terminal repeats	NA	5	11	0.9997	0.0003	3	6.3554	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_FNDI01000021.1|provirus_23_36563	36541	Provirus	23-36563	51	11	0.9997	0.0003	7	43.8140	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+ABBGAK010000009.1	44375	No terminal repeats	NA	47	11	0.9997	0.0003	5	69.9054	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Ackermannviridae
+PARD01000025.1	60569	No terminal repeats	NA	58	11	0.9997	0.0003	14	86.9626	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAGCAQ010000165.1	16405	ITR	NA	21	11	0.9997	0.0003	3	20.5147	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+KT997852.1	40360	No terminal repeats	NA	57	11	0.9997	0.0003	7	35.9469	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_SBHT01000016.1	8244	No terminal repeats	NA	11	11	0.9997	0.0003	1	13.7968	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+RFSS01001037.1	1200	No terminal repeats	NA	3	11	0.9997	0.0003	1	4.6371	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Kyanoviridae
+ON169962.1	63041	No terminal repeats	NA	66	11	0.9997	0.0003	15	102.7165	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Ackermannviridae
+MF498773.1	60998	No terminal repeats	NA	74	11	0.9997	0.0003	20	95.6373	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Straboviridae
+LR796571.1	37011	No terminal repeats	NA	51	11	0.9997	0.0003	5	54.8765	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JALNYV010000002.1	60635	No terminal repeats	NA	69	11	0.9997	0.0003	15	69.9134	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JACNHO010000029.1	40878	No terminal repeats	NA	38	11	0.9997	0.0003	14	54.1465	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+LR798196.1	42377	No terminal repeats	NA	56	11	0.9997	0.0003	8	59.2732	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MK962753.1	60827	No terminal repeats	NA	99	11	0.9997	0.0003	25	104.8563	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Straboviridae
+MK892661.1	44825	No terminal repeats	NA	68	11	0.9997	0.0003	14	84.6516	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+LR797107.1	39920	No terminal repeats	NA	57	11	0.9997	0.0003	6	31.3098	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MK892671.1	48729	No terminal repeats	NA	72	11	0.9997	0.0003	16	82.5352	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_019423.1	33751	No terminal repeats	NA	61	11	0.9997	0.0003	1	79.3281	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Schitoviridae
+BK018356.1	17079	ITR	NA	22	11	0.9997	0.0003	3	21.8357	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAOGPQ010000008.1	24400	No terminal repeats	NA	27	11	0.9997	0.0003	10	38.0711	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_001423.1	19366	No terminal repeats	NA	25	11	0.9997	0.0003	8	30.1613	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_028659.1	61961	No terminal repeats	NA	85	11	0.9997	0.0003	10	120.8373	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_048797.1	52411	No terminal repeats	NA	111	11	0.9997	0.0003	1	79.9171	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Herelleviridae
+RGWU01000230.1	4713	No terminal repeats	NA	5	11	0.9997	0.0003	3	6.3554	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_NZGW01000060.1	57352	No terminal repeats	NA	62	11	0.9997	0.0003	16	92.5875	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NHMG01000004.1	42119	No terminal repeats	NA	70	11	0.9997	0.0003	12	83.7661	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_023694.1	31739	No terminal repeats	NA	37	11	0.9997	0.0003	6	52.1184	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_069155.1	39799	DTR	NA	62	11	0.9997	0.0003	12	71.9555	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_FNTV01000001.1|provirus_1_35068	35068	Provirus	1-35068	56	11	0.9997	0.0003	10	47.7919	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_047847.1	48262	DTR	NA	76	11	0.9997	0.0003	17	105.5069	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Drexlerviridae
+BK040195.1	18882	No terminal repeats	NA	25	11	0.9997	0.0003	3	16.8562	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MN855777.1	39362	DTR	NA	54	11	0.9997	0.0003	8	45.9849	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_073210.1	40731	No terminal repeats	NA	58	11	0.9997	0.0003	10	82.9788	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+LR796211.1	36075	No terminal repeats	NA	51	11	0.9997	0.0003	12	51.1858	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+DUHL01000141.1	7265	No terminal repeats	NA	15	11	0.9997	0.0003	0	13.5913	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NVVV01000063.1	50206	No terminal repeats	NA	55	11	0.9997	0.0003	13	63.9106	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+LR796556.1	35136	No terminal repeats	NA	57	11	0.9997	0.0003	6	69.5800	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAEPCM010000016.1	60560	No terminal repeats	NA	91	11	0.9997	0.0003	11	69.4430	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_SNVX01000001.1|provirus_30001_61885	31885	Provirus	30001-61885	43	11	0.9997	0.0003	12	50.7121	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_049472.1	62315	No terminal repeats	NA	71	11	0.9997	0.0003	15	102.2195	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Ackermannviridae
+NC_004165.1	18630	No terminal repeats	NA	23	11	0.9997	0.0003	8	28.4453	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAHIYA010000508.1	53979	DTR	NA	87	11	0.9997	0.0003	15	89.4058	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_070861.1	62162	No terminal repeats	NA	61	11	0.9997	0.0003	4	74.9843	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Schitoviridae
+NC_049455.1	62894	No terminal repeats	NA	72	11	0.9997	0.0003	11	106.0046	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Ackermannviridae
+MK892838.1	33392	No terminal repeats	NA	50	11	0.9997	0.0003	4	64.1800	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK022672.1	60797	No terminal repeats	NA	76	11	0.9997	0.0003	4	48.8832	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+LR797105.1	37613	No terminal repeats	NA	46	11	0.9997	0.0003	3	25.5164	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK032531.1	15613	No terminal repeats	NA	18	11	0.9997	0.0003	3	25.6245	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+PBBF01000039.1	16819	No terminal repeats	NA	10	11	0.9997	0.0003	4	10.2341	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZYI01000018.1	16527	No terminal repeats	NA	26	11	0.9997	0.0003	5	33.1532	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+LR797523.1	55957	No terminal repeats	NA	70	11	0.9997	0.0003	11	77.8196	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAFPFX010000006.1	13539	ITR	NA	17	11	0.9997	0.0003	5	16.9585	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_016161.1	38013	No terminal repeats	NA	58	11	0.9997	0.0003	8	56.9199	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_042047.1	61898	No terminal repeats	NA	68	11	0.9997	0.0003	14	99.2620	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Ackermannviridae
+NC_049502.1	46029	No terminal repeats	NA	47	11	0.9997	0.0003	13	70.0570	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Ackermannviridae
+NC_055773.1	58474	No terminal repeats	NA	82	11	0.9997	0.0003	7	120.5828	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MT354570.1	41714	No terminal repeats	NA	50	11	0.9997	0.0003	7	45.4122	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Autographiviridae
+NC_049428.1	62246	No terminal repeats	NA	67	11	0.9997	0.0003	14	99.9632	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Ackermannviridae
+NC_049496.1	62288	No terminal repeats	NA	67	11	0.9997	0.0003	17	100.2550	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Ackermannviridae
+DOTW01000308.1	7846	No terminal repeats	NA	15	11	0.9997	0.0003	1	19.4516	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_MWPR01000057.1	26001	No terminal repeats	NA	33	11	0.9997	0.0003	11	46.4754	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+LR796208.1	34332	No terminal repeats	NA	35	11	0.9997	0.0003	9	40.8258	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_048190.1	44866	No terminal repeats	NA	73	11	0.9997	0.0003	12	61.7934	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK058170.1	13719	No terminal repeats	NA	20	11	0.9997	0.0003	3	16.7775	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK027990.1	16074	No terminal repeats	NA	20	11	0.9997	0.0003	5	19.2011	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MZ333131.1	49573	No terminal repeats	NA	85	11	0.9997	0.0003	3	65.0735	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Zobellviridae
+LR796247.1	60686	No terminal repeats	NA	66	11	0.9997	0.0003	13	72.3291	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MN855763.1	60998	No terminal repeats	NA	118	11	0.9997	0.0003	9	70.6191	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Straboviridae
+JAKUQG010000212.1	2477	No terminal repeats	NA	4	11	0.9997	0.0003	1	5.1548	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_073477.1	17554	No terminal repeats	NA	20	11	0.9997	0.0003	3	13.7463	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_JAAXJE010000032.1	41713	No terminal repeats	NA	51	11	0.9997	0.0003	1	56.0127	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK028724.1	16049	No terminal repeats	NA	17	11	0.9997	0.0003	4	17.7355	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+LR796270.1	60611	No terminal repeats	NA	72	11	0.9997	0.0003	10	87.3445	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_024210.1	47112	No terminal repeats	NA	71	11	0.9997	0.0003	17	97.3049	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Drexlerviridae
+LR798344.1	36803	No terminal repeats	NA	53	11	0.9997	0.0003	10	52.1905	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+LR796541.1	39947	No terminal repeats	NA	50	11	0.9997	0.0003	9	25.8464	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+LR796139.1	44995	No terminal repeats	NA	67	11	0.9997	0.0003	8	32.9165	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_019521.1	60749	No terminal repeats	NA	82	11	0.9997	0.0003	4	34.7387	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+OR666137.1	61427	No terminal repeats	NA	91	11	0.9997	0.0003	24	126.4782	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Straboviridae
+MK016663.1	44871	No terminal repeats	NA	65	11	0.9997	0.0003	7	98.8151	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Kyanoviridae
+OP073953.1	15031	No terminal repeats	NA	20	11	0.9997	0.0003	3	14.9036	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_025422.1	54588	No terminal repeats	NA	79	11	0.9997	0.0003	19	71.8412	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MH809530.1	61760	No terminal repeats	NA	67	11	0.9997	0.0003	5	72.3680	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Herelleviridae
+LR796204.1	40420	No terminal repeats	NA	55	11	0.9997	0.0003	7	71.6409	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MW380984.1	51721	No terminal repeats	NA	65	11	0.9997	0.0003	12	67.9219	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Chaseviridae
+BK028423.1	54443	No terminal repeats	NA	54	11	0.9997	0.0003	8	43.6262	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZER01000311.1	11341	No terminal repeats	NA	10	11	0.9997	0.0003	0	13.0500	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MN855768.1	46852	DTR	NA	55	11	0.9997	0.0003	13	61.1909	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Autographiviridae
+LR796761.1	39964	No terminal repeats	NA	58	11	0.9997	0.0003	5	64.3165	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MG592629.1	47739	No terminal repeats	NA	67	11	0.9997	0.0003	5	45.1205	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Zobellviridae
+NC_042061.1	61892	No terminal repeats	NA	60	11	0.9997	0.0003	16	90.1483	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Ackermannviridae
+NC_070774.1	40065	No terminal repeats	NA	70	11	0.9997	0.0003	12	62.7543	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MN813685.1	42205	No terminal repeats	NA	67	11	0.9997	0.0003	15	79.1184	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+LR798214.1	37649	No terminal repeats	NA	44	11	0.9997	0.0003	6	55.5810	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+PBIO01000022.1	38856	No terminal repeats	NA	54	11	0.9997	0.0003	9	54.2353	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+LR798211.1	38915	No terminal repeats	NA	54	11	0.9997	0.0003	5	56.3539	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MG592422.1	49567	No terminal repeats	NA	90	11	0.9997	0.0003	13	73.2709	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_055871.1	55109	No terminal repeats	NA	79	11	0.9997	0.0003	3	84.7352	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;Crassvirales;
+NZ_BRRI01000008.1|provirus_1_35113	35113	Provirus	1-35113	49	11	0.9997	0.0003	11	60.6411	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZZC01000172.1	18767	No terminal repeats	NA	39	11	0.9997	0.0003	2	27.3259	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+PAPZ01000036.1	16494	No terminal repeats	NA	18	11	0.9997	0.0003	5	30.9060	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+OM293948.2	61217	No terminal repeats	NA	67	11	0.9997	0.0003	8	44.2865	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Herelleviridae
+RHBQ01000476.1	2729	No terminal repeats	NA	4	11	0.9997	0.0003	1	6.3554	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK033224.1	14211	No terminal repeats	NA	20	11	0.9997	0.0003	4	16.8482	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MK813942.1	41963	DTR	NA	62	11	0.9997	0.0003	8	63.3289	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+LJCX01000030.1|provirus_30_36076	36047	Provirus	30-36076	46	11	0.9997	0.0003	8	30.0397	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_030948.1	60773	No terminal repeats	NA	81	11	0.9997	0.0003	7	63.1579	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+OP075159.1	13085	No terminal repeats	NA	15	11	0.9997	0.0003	4	17.1828	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MN582076.1	44400	No terminal repeats	NA	80	11	0.9997	0.0003	6	45.4631	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+LR798265.1	30989	No terminal repeats	NA	50	11	0.9997	0.0003	6	46.4253	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_005262.3	57631	No terminal repeats	NA	66	11	0.9997	0.0003	10	86.9289	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JABIPJ010000061.1	27456	No terminal repeats	NA	29	11	0.9997	0.0003	11	36.2455	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_048049.1	60389	No terminal repeats	NA	66	11	0.9997	0.0003	7	100.3278	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Kyanoviridae
+LR796178.1	57070	No terminal repeats	NA	63	11	0.9997	0.0003	9	64.2633	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+ON042750.1	17798	No terminal repeats	NA	20	11	0.9997	0.0003	8	24.6093	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK043257.1	38263	No terminal repeats	NA	59	11	0.9997	0.0003	10	38.1370	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_027204.1	60602	No terminal repeats	NA	88	11	0.9997	0.0003	20	83.2440	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZOU01000019.1	10937	No terminal repeats	NA	24	11	0.9997	0.0003	0	13.4199	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+PAOR01000016.1	24398	No terminal repeats	NA	23	11	0.9997	0.0003	3	38.5836	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Kyanoviridae
+NC_009817.1	48456	No terminal repeats	NA	65	11	0.9997	0.0003	7	36.1084	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MK892565.1	61958	No terminal repeats	NA	92	11	0.9997	0.0003	16	82.5790	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK028473.1	15907	ITR	NA	22	11	0.9997	0.0003	4	24.4667	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MK892639.1	33817	No terminal repeats	NA	62	11	0.9997	0.0003	5	75.3846	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK045666.1	16974	No terminal repeats	NA	20	11	0.9997	0.0003	4	17.6135	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MK892552.1	36137	No terminal repeats	NA	54	11	0.9997	0.0003	5	74.3343	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+LR796187.1	61703	No terminal repeats	NA	72	11	0.9997	0.0003	1	71.5966	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+PP209424.1	60599	No terminal repeats	NA	72	11	0.9997	0.0003	24	76.0069	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Straboviridae
+BK035361.1	13284	No terminal repeats	NA	15	11	0.9997	0.0003	6	20.8666	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_023426.1	58506	No terminal repeats	NA	68	11	0.9997	0.0003	4	27.9037	Viruses;Varidnaviria;Bamfordvirae;Nucleocytoviricota;Pokkesviricetes;Chitovirales;Poxviridae
+NC_071138.1	47797	No terminal repeats	NA	76	11	0.9997	0.0003	17	102.1156	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+OR050627.1	60758	No terminal repeats	NA	71	11	0.9997	0.0003	4	28.4721	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+AZFC01000030.1	5020	No terminal repeats	NA	10	11	0.9997	0.0003	0	8.4244	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK054917.1	13145	No terminal repeats	NA	14	11	0.9997	0.0003	4	14.2989	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_027988.2	47636	No terminal repeats	NA	82	11	0.9997	0.0003	6	65.4772	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Zobellviridae
+NC_011142.1	47453	No terminal repeats	NA	78	11	0.9997	0.0003	15	77.2102	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_047900.1	62078	No terminal repeats	NA	65	11	0.9997	0.0003	15	100.0591	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Ackermannviridae
+NC_022774.1	56486	No terminal repeats	NA	80	11	0.9997	0.0003	5	100.4490	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MH517022.1	50526	No terminal repeats	NA	48	11	0.9997	0.0003	8	42.1090	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MK892785.1	31239	No terminal repeats	NA	45	11	0.9997	0.0003	11	68.4265	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAFWJA010000022.1	18303	ITR	NA	26	11	0.9997	0.0003	5	17.8674	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+ON381767.1	18400	No terminal repeats	NA	22	11	0.9997	0.0003	3	13.7463	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+DPSJ01000151.1	3534	No terminal repeats	NA	9	11	0.9997	0.0003	0	7.8930	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MIAI01000201.1	6840	No terminal repeats	NA	3	11	0.9997	0.0003	0	4.4166	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MN855826.1	11839	No terminal repeats	NA	23	11	0.9997	0.0003	2	21.0973	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Autographiviridae
+DRCE01000157.1	8805	No terminal repeats	NA	7	11	0.9997	0.0003	1	7.2571	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_048660.1	60689	No terminal repeats	NA	79	11	0.9997	0.0003	7	59.0866	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_048792.1	62195	No terminal repeats	NA	69	11	0.9997	0.0003	0	42.0915	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Chimalliviridae
+PP059645.1	16810	ITR	NA	21	11	0.9997	0.0003	3	12.0280	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAFYIP010000093.1	16834	No terminal repeats	NA	24	11	0.9997	0.0003	3	11.5972	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK031586.1	19634	No terminal repeats	NA	27	11	0.9997	0.0003	4	17.5806	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_062753.1	53385	No terminal repeats	NA	100	11	0.9997	0.0003	7	81.9574	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MZ043613.1	62615	No terminal repeats	NA	93	11	0.9997	0.0003	16	61.9031	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+LR796245.1	50017	No terminal repeats	NA	92	11	0.9997	0.0003	8	50.8555	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK055710.1	13693	No terminal repeats	NA	23	11	0.9997	0.0003	3	16.8116	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+LR796235.1	60854	No terminal repeats	NA	64	11	0.9997	0.0003	0	85.3990	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK016125.1	34233	No terminal repeats	NA	40	11	0.9997	0.0003	2	32.0508	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MT949699.1	60839	No terminal repeats	NA	86	11	0.9997	0.0003	28	112.2159	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Straboviridae
+BK038642.1	18709	No terminal repeats	NA	27	11	0.9997	0.0003	4	34.8376	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK022677.1	19182	No terminal repeats	NA	24	11	0.9997	0.0003	3	21.7677	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAGBUI010000333.1	7925	No terminal repeats	NA	16	11	0.9997	0.0003	1	6.8731	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+LR798288.1	60587	No terminal repeats	NA	78	11	0.9997	0.0003	19	90.3039	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK041972.1	60704	No terminal repeats	NA	66	11	0.9997	0.0003	8	33.8933	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+KU886272.1	40306	DTR	NA	64	11	0.9997	0.0003	5	67.7522	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_006953.1	37966	No terminal repeats	NA	56	11	0.9997	0.0003	11	51.3116	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MW824370.1	60671	No terminal repeats	NA	97	11	0.9997	0.0003	12	47.7301	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK016136.1	60686	No terminal repeats	NA	63	11	0.9997	0.0003	0	26.0541	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+PBIO01000029.1	18719	No terminal repeats	NA	24	11	0.9997	0.0003	2	26.0080	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAHAAJ010000056.1	13867	ITR	NA	17	11	0.9997	0.0003	3	18.6343	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+KU686197.1	33236	No terminal repeats	NA	21	11	0.9997	0.0003	6	33.8874	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Kyanoviridae
+BK015645.1	46300	No terminal repeats	NA	51	11	0.9997	0.0003	3	30.7369	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MG592599.1	47017	No terminal repeats	NA	57	11	0.9997	0.0003	4	45.0661	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Zobellviridae
+NZ_CAJPDG010000001.1|provirus_28681_62081	33401	Provirus	28681-62081	40	11	0.9997	0.0003	7	41.0327	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+LR881137.1	63119	No terminal repeats	NA	67	11	0.9997	0.0003	14	99.7499	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Ackermannviridae
+MG592535.1	37551	No terminal repeats	NA	60	11	0.9997	0.0003	10	45.2530	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_055841.1	60635	No terminal repeats	NA	84	11	0.9997	0.0003	19	69.2442	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+LR796879.1	39192	No terminal repeats	NA	53	11	0.9997	0.0003	7	55.1910	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_073480.1	18277	No terminal repeats	NA	21	11	0.9997	0.0003	3	18.6031	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+LR796144.1	40784	No terminal repeats	NA	65	11	0.9997	0.0003	5	48.0309	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NHJZ01000021.1	8964	No terminal repeats	NA	19	11	0.9997	0.0003	0	21.3595	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+KU686213.1	60206	No terminal repeats	NA	86	11	0.9997	0.0003	4	85.2736	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Kyanoviridae
+JAYNJB010000053.1	7526	No terminal repeats	NA	13	11	0.9997	0.0003	6	21.6486	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Kyanoviridae
+JAGCAI010000053.1	17325	No terminal repeats	NA	26	11	0.9997	0.0003	3	18.8014	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+LR796449.1	42072	No terminal repeats	NA	52	11	0.9997	0.0003	11	38.0683	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+DMHR01001325.1	3864	No terminal repeats	NA	10	11	0.9997	0.0003	0	12.8095	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK041558.1	13363	No terminal repeats	NA	15	11	0.9997	0.0003	2	11.7013	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_NGFN01000071.1	28100	No terminal repeats	NA	34	11	0.9997	0.0003	8	40.0173	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAWSTK010000072.1	13151	No terminal repeats	NA	16	11	0.9997	0.0003	6	25.6999	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Kyanoviridae
+JAFTXS010000183.1	3916	No terminal repeats	NA	4	11	0.9997	0.0003	1	5.1548	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MN038175.1	49831	No terminal repeats	NA	72	11	0.9997	0.0003	12	70.7981	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Straboviridae
+BK024652.1	14930	No terminal repeats	NA	19	11	0.9997	0.0003	3	11.8232	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MWCK01000012.1	24026	No terminal repeats	NA	26	11	0.9997	0.0003	2	14.0049	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+ON615601.1	36920	No terminal repeats	NA	45	11	0.9997	0.0003	10	47.3376	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+LR796956.1	39840	No terminal repeats	NA	53	11	0.9997	0.0003	4	23.7294	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK015140.1	23810	No terminal repeats	NA	19	11	0.9997	0.0003	3	11.2925	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Autographiviridae
+NZ_CP022702.1|provirus_28398_62036	33639	Provirus	28398-62036	53	11	0.9997	0.0003	6	38.0890	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_048709.1	54288	No terminal repeats	NA	79	11	0.9997	0.0003	10	50.9604	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Straboviridae
+NC_048755.1	60668	No terminal repeats	NA	127	11	0.9997	0.0003	6	51.0035	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK034272.1	13380	No terminal repeats	NA	17	11	0.9997	0.0003	2	24.0387	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+LR797306.1	37831	No terminal repeats	NA	50	11	0.9997	0.0003	1	24.2640	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAGCOX010000010.1	53994	No terminal repeats	NA	94	11	0.9997	0.0003	6	24.0217	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_021328.1	60395	No terminal repeats	NA	114	11	0.9997	0.0003	2	21.9594	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;Thumleimavirales;
+LR881138.1	55490	No terminal repeats	NA	81	11	0.9997	0.0003	15	111.3090	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Ackermannviridae
+NC_028856.1	55578	No terminal repeats	NA	76	11	0.9997	0.0003	5	99.6037	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_042355.1	43193	No terminal repeats	NA	54	11	0.9997	0.0003	6	44.7864	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK051214.1	15280	No terminal repeats	NA	26	11	0.9997	0.0003	3	18.4511	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+LR796359.1	47345	No terminal repeats	NA	67	11	0.9997	0.0003	3	73.5692	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK032006.1	13913	No terminal repeats	NA	16	11	0.9997	0.0003	2	14.5556	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAQVOC010000001.1	60620	No terminal repeats	NA	69	11	0.9997	0.0003	18	62.6126	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MH884512.1	55091	No terminal repeats	NA	70	11	0.9997	0.0003	10	42.7195	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_048767.1	49935	No terminal repeats	NA	81	11	0.9997	0.0003	17	73.2838	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_FNGM01000034.1	32975	No terminal repeats	NA	60	11	0.9997	0.0003	7	35.5888	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK036097.1	51258	No terminal repeats	NA	60	11	0.9997	0.0003	12	61.9618	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+LR797213.1	58329	No terminal repeats	NA	75	11	0.9997	0.0003	5	40.9870	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+LR796437.1	41766	No terminal repeats	NA	65	11	0.9997	0.0003	11	47.5742	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+LR796750.1	45255	No terminal repeats	NA	52	11	0.9997	0.0003	6	39.8688	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MN988519.1	54325	No terminal repeats	NA	70	11	0.9997	0.0003	13	61.8248	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MN908690.1	51736	No terminal repeats	NA	87	11	0.9997	0.0003	5	48.0902	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+KX507045.1	40823	No terminal repeats	NA	72	11	0.9997	0.0003	8	53.1233	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_049970.1	20083	No terminal repeats	NA	27	11	0.9997	0.0003	5	16.7260	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_054148.1	43707	No terminal repeats	NA	62	11	0.9997	0.0003	21	56.3095	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK045229.1	14998	ITR	NA	18	11	0.9997	0.0003	4	17.8933	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZQM01000170.1	12383	No terminal repeats	NA	12	11	0.9997	0.0003	0	18.1684	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_LEEA01000022.1|provirus_25567_61726	36160	Provirus	25567-61726	50	11	0.9997	0.0003	9	61.6656	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+OP073909.1	19411	No terminal repeats	NA	25	11	0.9997	0.0003	6	24.1098	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+RFXA01000023.1	13319	No terminal repeats	NA	32	11	0.9997	0.0003	0	28.7773	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JBAXKL010000202.1	4384	No terminal repeats	NA	6	11	0.9997	0.0003	3	8.0737	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_027626.1	29347	No terminal repeats	NA	41	11	0.9997	0.0003	7	65.9060	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+LR798289.1	58311	No terminal repeats	NA	80	11	0.9997	0.0003	9	50.3523	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MG592534.1	35811	No terminal repeats	NA	58	11	0.9997	0.0003	13	49.4577	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NHCW01000174.1	14710	No terminal repeats	NA	29	11	0.9997	0.0003	7	40.0981	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAOELD010000001.1	60599	No terminal repeats	NA	65	11	0.9997	0.0003	5	87.0319	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+LR796426.1	44740	No terminal repeats	NA	60	11	0.9997	0.0003	6	28.6905	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_028789.1	18609	No terminal repeats	NA	26	11	0.9997	0.0003	8	25.6062	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_018270.1	33594	ITR	NA	45	11	0.9997	0.0003	4	19.3876	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MG592631.1	34788	No terminal repeats	NA	53	11	0.9997	0.0003	8	48.2179	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAYZLZ010000173.1	3311	No terminal repeats	NA	6	11	0.9997	0.0003	2	8.0737	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+DMFN01000129.1	14149	No terminal repeats	NA	20	11	0.9997	0.0003	1	25.1868	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+SSEM01000603.1	30822	No terminal repeats	NA	40	11	0.9997	0.0003	3	9.9529	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_015569.1	60341	No terminal repeats	NA	90	11	0.9997	0.0003	16	104.6414	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Kyanoviridae
+NZ_JBDGIA010000015.1	14272	No terminal repeats	NA	26	11	0.9997	0.0003	1	15.6025	Viruses;Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Kalamavirales;Tectiviridae
+KY684103.1	62156	No terminal repeats	NA	53	11	0.9997	0.0003	0	8.7345	Viruses;Varidnaviria;Bamfordvirae;Nucleocytoviricota;;;
+MK892601.1	42506	No terminal repeats	NA	61	11	0.9997	0.0003	4	67.3526	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Zobellviridae
+PP870179.1	18688	No terminal repeats	NA	24	11	0.9997	0.0003	3	18.3311	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_002649.1	21129	No terminal repeats	NA	32	11	0.9997	0.0003	6	22.2099	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MK892607.1	39874	No terminal repeats	NA	49	11	0.9997	0.0003	4	57.9853	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+LJNR01000435.1	7249	No terminal repeats	NA	20	11	0.9997	0.0003	0	20.3284	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_049960.1	21684	No terminal repeats	NA	32	11	0.9997	0.0003	8	25.6904	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NVUQ01000034.1	31910	No terminal repeats	NA	81	11	0.9997	0.0003	1	22.1246	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK057728.1	16699	No terminal repeats	NA	23	11	0.9997	0.0003	4	17.4880	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_055917.2	18642	No terminal repeats	NA	26	11	0.9997	0.0003	6	21.3132	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JACNFJ010001524.1	2900	No terminal repeats	NA	5	11	0.9997	0.0003	0	6.5284	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+QNEU01000073.1	4678	No terminal repeats	NA	6	11	0.9997	0.0003	1	5.1548	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Schitoviridae
+BK053918.1	14703	ITR	NA	16	11	0.9997	0.0003	3	14.6036	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MK095605.1	46103	No terminal repeats	NA	68	11	0.9997	0.0003	14	47.0880	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK021179.1	15307	ITR	NA	24	11	0.9997	0.0003	3	18.5404	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+DUHL01000032.1	2718	No terminal repeats	NA	5	11	0.9997	0.0003	2	6.8731	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+LC629478.1	60350	No terminal repeats	NA	90	11	0.9997	0.0003	8	104.6140	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Kyanoviridae
+OP073754.1	16033	ITR	NA	21	11	0.9997	0.0003	4	19.1522	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+OP076029.1	18724	No terminal repeats	NA	24	11	0.9997	0.0003	3	23.1487	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_SOHO01000022.1|provirus_22835_58468	35634	Provirus	22835-58468	69	11	0.9997	0.0003	10	43.6711	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_049968.1	26357	No terminal repeats	NA	44	11	0.9997	0.0003	5	39.2589	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_075036.1	62108	No terminal repeats	NA	53	11	0.9997	0.0003	0	7.9861	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+LR797414.1	38684	No terminal repeats	NA	55	11	0.9997	0.0003	9	34.3191	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK029545.1	14989	No terminal repeats	NA	25	11	0.9997	0.0003	3	18.2774	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_DNES01000046.1|provirus_2_37754	37753	Provirus	2-37754	57	11	0.9997	0.0003	5	46.0601	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+SSEM01000605.1	18510	No terminal repeats	NA	35	11	0.9997	0.0003	1	14.7901	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MT028491.1	60659	No terminal repeats	NA	84	11	0.9997	0.0003	19	65.0283	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+LR796734.1	60566	No terminal repeats	NA	86	11	0.9997	0.0003	14	80.4815	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MG592622.1	48207	No terminal repeats	NA	70	11	0.9997	0.0003	12	72.1968	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NHIF02000004.1	16598	No terminal repeats	NA	13	11	0.9997	0.0003	0	16.0831	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK015539.1	17294	No terminal repeats	NA	25	11	0.9997	0.0003	3	20.2927	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MT773556.1	60731	No terminal repeats	NA	65	11	0.9997	0.0003	12	69.1394	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MK892630.1	36496	No terminal repeats	NA	73	11	0.9997	0.0003	10	58.8442	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MK892795.1	47758	No terminal repeats	NA	67	11	0.9997	0.0003	5	56.4610	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK047707.1	15470	No terminal repeats	NA	23	11	0.9997	0.0003	2	10.3097	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MT310894.1	54655	No terminal repeats	NA	86	11	0.9997	0.0003	5	77.9300	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+PBVM01000173.1	49542	No terminal repeats	NA	68	11	0.9997	0.0003	5	43.7058	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK017257.1	16968	ITR	NA	23	11	0.9997	0.0003	4	14.9395	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_013697.1	43518	No terminal repeats	NA	47	11	0.9997	0.0003	17	52.9073	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MG592490.1	36314	No terminal repeats	NA	61	11	0.9997	0.0003	9	45.9364	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MG592434.1	41774	No terminal repeats	NA	72	11	0.9997	0.0003	13	68.0671	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZER01000157.1	24662	No terminal repeats	NA	41	11	0.9997	0.0003	3	38.4003	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK051570.1	14550	No terminal repeats	NA	15	11	0.9997	0.0003	5	21.0681	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAGCBE010000172.1	14280	No terminal repeats	NA	24	11	0.9997	0.0003	2	11.9482	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MK892658.1	44755	No terminal repeats	NA	75	11	0.9997	0.0003	11	57.5948	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK018336.1	15483	ITR	NA	17	11	0.9997	0.0003	4	14.2535	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_PNYT01000007.1|provirus_25382_62093	36712	Provirus	25382-62093	47	11	0.9997	0.0003	9	63.1126	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MK892758.1	50342	No terminal repeats	NA	57	11	0.9997	0.0003	5	51.3076	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK038524.1	17368	No terminal repeats	NA	20	11	0.9997	0.0003	3	15.3931	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK024152.1	12076	No terminal repeats	NA	17	11	0.9997	0.0003	3	15.2111	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAGCXD010000163.1	14218	No terminal repeats	NA	18	11	0.9997	0.0003	2	13.3905	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_022096.1	60824	No terminal repeats	NA	67	11	0.9997	0.0003	5	53.6467	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MW712735.1	52658	No terminal repeats	NA	83	11	0.9997	0.0003	3	63.7862	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+LC629474.1	60284	No terminal repeats	NA	94	11	0.9997	0.0003	11	118.9180	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Kyanoviridae
+NC_073476.1	18290	No terminal repeats	NA	22	11	0.9997	0.0003	3	14.3796	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_006883.2	54236	No terminal repeats	NA	62	11	0.9997	0.0003	7	96.6638	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Kyanoviridae
+NC_049966.1	25722	No terminal repeats	NA	38	11	0.9997	0.0003	6	47.4639	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Salasmaviridae
+KX160207.1	36378	No terminal repeats	NA	53	11	0.9997	0.0003	14	69.3963	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_CP054880.1|provirus_28722_62165	33444	Provirus	28722-62165	42	11	0.9997	0.0003	7	53.9152	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAFTMX010000002.1	18757	ITR	NA	30	11	0.9997	0.0003	5	16.0727	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK037072.1	17347	No terminal repeats	NA	23	11	0.9997	0.0003	5	22.2420	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MH825712.1	38260	No terminal repeats	NA	67	11	0.9997	0.0003	6	34.7948	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_JARLJR010000083.1	60614	No terminal repeats	NA	133	11	0.9997	0.0003	9	59.4461	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_021558.1	37644	No terminal repeats	NA	69	11	0.9997	0.0003	10	59.0743	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BOZZ01000004.1	24369	No terminal repeats	NA	42	11	0.9997	0.0003	5	38.5023	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Kyanoviridae
+JAGBXP010000034.1	8295	No terminal repeats	NA	10	11	0.9997	0.0003	1	7.6492	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+DMHR01001323.1	4263	No terminal repeats	NA	8	11	0.9997	0.0003	0	11.9376	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK044069.1	13334	ITR	NA	16	11	0.9997	0.0003	3	15.8515	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_JBEPMH010000001.1|provirus_1_38233	38233	Provirus	1-38233	59	11	0.9997	0.0003	8	41.1468	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAFZOY010000103.1	17112	ITR	NA	22	11	0.9997	0.0003	3	13.7341	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+KT997818.1	32826	No terminal repeats	NA	55	11	0.9997	0.0003	0	18.8096	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+RHCO01000108.1	4141	No terminal repeats	NA	7	11	0.9997	0.0003	3	9.7919	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_055824.1	38848	No terminal repeats	NA	37	11	0.9997	0.0003	4	34.6013	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Schitoviridae
+KU682439.2	59494	No terminal repeats	NA	82	11	0.9997	0.0003	12	65.8343	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_LYXP01000014.1	14220	No terminal repeats	NA	27	11	0.9997	0.0003	1	18.4056	Viruses;Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Kalamavirales;Tectiviridae
+BK055294.1	17483	No terminal repeats	NA	21	11	0.9997	0.0003	4	15.7645	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+QMYQ01000227.1	3129	No terminal repeats	NA	10	11	0.9997	0.0003	0	9.8137	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAGCBE010000335.1	17221	No terminal repeats	NA	20	11	0.9997	0.0003	4	15.7009	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+LR796138.1	44900	No terminal repeats	NA	53	11	0.9997	0.0003	6	38.8034	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAXJXA010000214.1	13240	No terminal repeats	NA	16	11	0.9997	0.0003	3	11.2786	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MF418016.1	62615	No terminal repeats	NA	57	11	0.9997	0.0003	7	37.5410	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK053472.1	15380	No terminal repeats	NA	18	11	0.9997	0.0003	4	20.3631	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+PQ114753.1	16285	ITR	NA	20	11	0.9997	0.0003	3	13.4988	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MGYJ01000098.1	41301	DTR	NA	62	11	0.9997	0.0003	5	44.9735	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+AP019525.1	40439	No terminal repeats	NA	45	11	0.9997	0.0003	3	29.5908	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+OQ504984.1	55912	No terminal repeats	NA	71	11	0.9997	0.0003	7	100.1841	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Kyanoviridae
+NZ_CP043624.1|provirus_25734_60819	35086	Provirus	25734-60819	56	11	0.9997	0.0003	6	48.0156	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_CP046445.1|provirus_26986_51605	24620	Provirus	26986-51605	34	11	0.9997	0.0003	10	40.8493	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MZ570263.1	22320	No terminal repeats	NA	34	11	0.9997	0.0003	7	24.6020	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+LR796706.1	45945	No terminal repeats	NA	59	11	0.9997	0.0003	6	57.2199	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MG592671.1	61589	No terminal repeats	NA	74	11	0.9997	0.0003	5	40.9363	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MN855698.1	49648	No terminal repeats	NA	55	11	0.9997	0.0003	5	20.2342	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK014751.1	13828	ITR	NA	17	11	0.9997	0.0003	2	18.4047	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK017141.1	15058	No terminal repeats	NA	20	11	0.9997	0.0003	3	12.8373	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAONPW010000002.1	36743	No terminal repeats	NA	33	11	0.9997	0.0003	10	40.2364	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_055784.1	51823	No terminal repeats	NA	72	11	0.9997	0.0003	3	44.3246	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Schitoviridae
+RGCK01000636.1	1680	No terminal repeats	NA	3	11	0.9997	0.0003	1	4.9755	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_JACHOS010000005.1|provirus_2_36974	36973	Provirus	2-36974	58	11	0.9997	0.0003	13	57.5649	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_DAMCBQ010000026.1	48233	DTR	NA	84	11	0.9997	0.0003	12	83.5178	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+DUAO01000117.1	9701	No terminal repeats	NA	12	11	0.9997	0.0003	3	17.1828	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_JAHSTZ010000037.1|provirus_7899_49554	41656	Provirus	7899-49554	53	11	0.9997	0.0003	10	59.2287	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MG592518.1	48481	No terminal repeats	NA	79	11	0.9997	0.0003	12	74.3859	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_RCTG01000096.1	7596	No terminal repeats	NA	9	11	0.9997	0.0003	3	14.5542	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+LR797075.1	44992	No terminal repeats	NA	58	11	0.9997	0.0003	5	31.8789	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAYZKB010000414.1	2626	No terminal repeats	NA	5	11	0.9997	0.0003	2	8.5914	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Kyanoviridae
+LR796439.1	46987	No terminal repeats	NA	84	11	0.9997	0.0003	2	25.9883	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_JAUJQE010000004.1|provirus_33_33457	33425	Provirus	33-33457	57	11	0.9997	0.0003	9	53.4435	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+LR797022.1	54051	No terminal repeats	NA	70	11	0.9997	0.0003	16	68.5206	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAFVSF010000121.1	4669	No terminal repeats	NA	5	11	0.9997	0.0003	1	5.1548	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+LR797061.1	30377	No terminal repeats	NA	47	11	0.9997	0.0003	6	22.6563	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZAU01000175.1	10752	No terminal repeats	NA	16	11	0.9997	0.0003	6	24.9234	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Kyanoviridae
+NZ_FNNT01000004.1|provirus_6797_43676	36880	Provirus	6797-43676	58	11	0.9997	0.0003	7	42.9423	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK027565.1	16777	ITR	NA	23	11	0.9997	0.0003	3	13.2745	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK031439.1	16584	No terminal repeats	NA	25	11	0.9997	0.0003	3	17.1479	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_LMRY01000058.1|provirus_4106_44480	40375	Provirus	4106-44480	68	11	0.9997	0.0003	9	31.4799	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MG592517.1	36789	No terminal repeats	NA	65	11	0.9997	0.0003	11	40.1989	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MG592590.1	49535	No terminal repeats	NA	69	11	0.9997	0.0003	11	54.7183	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAGBAI010000003.1	14046	No terminal repeats	NA	19	11	0.9997	0.0003	4	14.4201	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK059092.1	22999	No terminal repeats	NA	27	15	0.9997	0.0003	2	25.6834	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;Crassvirales;
+LR797210.1	34036	No terminal repeats	NA	36	11	0.9997	0.0003	6	38.2306	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK050583.1	35777	No terminal repeats	NA	50	11	0.9997	0.0003	3	24.4713	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_030904.1	38975	No terminal repeats	NA	67	11	0.9997	0.0003	16	52.6163	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MH552495.1	16646	No terminal repeats	NA	19	11	0.9997	0.0003	3	16.9126	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MK892697.1	37416	No terminal repeats	NA	44	11	0.9997	0.0003	2	41.9037	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JABHQE010000318.1	2282	No terminal repeats	NA	4	11	0.9997	0.0003	1	6.3554	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Kyanoviridae
+BK045800.1	16213	ITR	NA	23	11	0.9997	0.0003	3	16.5300	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+DATHXT010000187.1	3014	No terminal repeats	NA	4	11	0.9997	0.0003	2	6.6257	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_NFJK01000003.1|provirus_24372_39463	15092	Provirus	24372-39463	25	11	0.9997	0.0003	3	18.0855	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+KT160311.1	50364	DTR	NA	74	11	0.9997	0.0003	15	66.2963	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MG592414.1	45827	No terminal repeats	NA	63	11	0.9997	0.0003	11	59.6098	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_RHQO01000019.1|provirus_209_36964	36756	Provirus	209-36964	57	11	0.9997	0.0003	12	68.7002	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+RGCK01000737.1	1529	No terminal repeats	NA	3	11	0.9997	0.0003	1	5.1548	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+OP076325.1	16140	No terminal repeats	NA	25	11	0.9997	0.0003	4	23.4338	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JABDMG010000039.1	14973	No terminal repeats	NA	16	11	0.9997	0.0003	3	25.1997	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+LC629455.1	60344	No terminal repeats	NA	70	11	0.9997	0.0003	6	86.4997	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Kyanoviridae
+BK040518.1	42655	No terminal repeats	NA	69	11	0.9997	0.0003	4	34.4348	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK043741.1	17337	No terminal repeats	NA	26	11	0.9997	0.0003	3	18.8427	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+OR003938.1	59242	No terminal repeats	NA	62	11	0.9997	0.0003	9	86.6096	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Kyanoviridae
+JAGCAI010000051.1	15796	ITR	NA	21	11	0.9997	0.0003	3	15.9231	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+LC554890.1	56927	No terminal repeats	NA	79	11	0.9997	0.0003	4	30.3755	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+LR797096.1	43248	No terminal repeats	NA	58	11	0.9997	0.0003	7	54.0303	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+LC629463.1	50966	No terminal repeats	NA	73	11	0.9997	0.0003	9	89.3052	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Kyanoviridae
+JAFUBL010000115.1	13875	No terminal repeats	NA	21	11	0.9997	0.0003	5	14.8934	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK021235.1	16207	ITR	NA	24	11	0.9997	0.0003	3	14.6100	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MK892844.1	38540	No terminal repeats	NA	72	11	0.9997	0.0003	14	66.6539	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_047839.1	43879	No terminal repeats	NA	76	11	0.9997	0.0003	2	66.8772	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK030649.1	16241	No terminal repeats	NA	25	11	0.9997	0.0003	3	16.7550	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK018185.1	20265	No terminal repeats	NA	22	11	0.9997	0.0003	4	14.4515	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_009760.1	60809	No terminal repeats	NA	74	11	0.9997	0.0003	1	27.3913	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_055706.1	31371	No terminal repeats	NA	17	11	0.9997	0.0003	0	5.6259	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAQYOZ010000056.1	16140	No terminal repeats	NA	27	11	0.9997	0.0003	6	17.6406	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MK892540.1	52100	No terminal repeats	NA	61	11	0.9997	0.0003	7	57.1952	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_CP050301.1|provirus_14603_61962	47360	Provirus	14603-61962	61	11	0.9997	0.0003	8	39.8190	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+OU342829.1	60725	No terminal repeats	NA	106	11	0.9997	0.0003	4	36.8457	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+KY684111.1	50983	No terminal repeats	NA	57	11	0.9997	0.0003	0	7.8839	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_BOSC01000001.1|provirus_3_39222	39220	Provirus	3-39222	67	11	0.9997	0.0003	12	56.1200	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK047563.1	14946	ITR	NA	21	11	0.9997	0.0003	4	20.4861	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_070962.1	60347	No terminal repeats	NA	69	11	0.9997	0.0003	7	103.3552	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Kyanoviridae
+MK774614.2	61760	No terminal repeats	NA	64	11	0.9997	0.0003	2	49.7058	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MK892843.1	38896	No terminal repeats	NA	44	11	0.9997	0.0003	4	31.7173	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MG592606.1	36710	No terminal repeats	NA	61	11	0.9997	0.0003	9	43.6314	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_AGJK01000003.1|provirus_12549_57577	45029	Provirus	12549-57577	65	11	0.9997	0.0003	11	45.9616	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZAU01000155.1	17023	No terminal repeats	NA	25	11	0.9997	0.0003	8	41.1870	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Kyanoviridae
+BK026954.1	13168	ITR	NA	17	11	0.9997	0.0003	3	15.8515	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+DATIJN010000085.1	6642	No terminal repeats	NA	9	11	0.9997	0.0003	5	13.4988	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+DAOLPE010000010.1	44294	No terminal repeats	NA	60	11	0.9997	0.0003	6	35.2258	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_049383.1	60746	No terminal repeats	NA	47	11	0.9997	0.0003	5	44.0554	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+PP179332.1	60734	No terminal repeats	NA	110	11	0.9996	0.0003	6	45.2585	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+LR796527.1	43396	No terminal repeats	NA	74	11	0.9996	0.0003	12	51.8646	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+KU050077.1	61241	No terminal repeats	NA	50	11	0.9996	0.0003	1	10.2265	Viruses;;;;Naldaviricetes;Lefavirales;Hytrosaviridae
+MW589261.1	55020	No terminal repeats	NA	85	11	0.9996	0.0003	16	58.1640	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_JABTBM010000001.1	16524	No terminal repeats	NA	20	11	0.9996	0.0003	3	15.1695	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_051580.1	57534	No terminal repeats	NA	94	11	0.9996	0.0003	3	100.2669	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAXJTP010000076.1	16085	No terminal repeats	NA	27	11	0.9996	0.0003	3	17.9921	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+LR796529.1	45046	No terminal repeats	NA	64	11	0.9996	0.0003	12	55.6568	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_JAQFAU010000002.1|provirus_3_42234	42232	Provirus	3-42234	53	11	0.9996	0.0003	9	57.2766	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAWWAS010000001.1	50066	No terminal repeats	NA	73	11	0.9996	0.0003	14	60.3099	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAHAFR010000099.1	5084	No terminal repeats	NA	10	11	0.9996	0.0003	1	4.9074	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JADJDR010000014.1	31540	No terminal repeats	NA	43	11	0.9996	0.0003	4	29.1127	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MN453779.2	61964	No terminal repeats	NA	72	11	0.9996	0.0003	1	39.9301	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MT773555.1	47184	No terminal repeats	NA	41	11	0.9996	0.0003	10	44.0356	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+LR796648.1	38033	No terminal repeats	NA	69	11	0.9996	0.0003	6	30.9590	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK040981.1	47589	No terminal repeats	NA	67	11	0.9996	0.0003	4	70.0939	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK057331.1	35313	No terminal repeats	NA	30	11	0.9996	0.0003	2	15.9602	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK052355.1	36714	No terminal repeats	NA	45	11	0.9996	0.0003	11	54.4062	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MG198570.1	33127	No terminal repeats	NA	32	11	0.9996	0.0003	9	45.8915	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAGCAQ010000350.1	16806	ITR	NA	25	11	0.9996	0.0003	3	15.4645	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JABSRW010000642.1	1552	No terminal repeats	NA	3	11	0.9996	0.0003	1	5.1548	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_JASGXL010000009.1|provirus_1_35962	35962	Provirus	1-35962	41	11	0.9996	0.0003	9	50.0705	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_015250.1	60791	No terminal repeats	NA	87	11	0.9996	0.0003	28	110.4530	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Straboviridae
+MN939540.1	52655	No terminal repeats	NA	95	11	0.9996	0.0003	5	52.6892	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Herelleviridae
+PAKA01000003.1	20353	No terminal repeats	NA	19	11	0.9996	0.0003	4	30.3343	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Kyanoviridae
+NC_049850.1	60818	No terminal repeats	NA	87	11	0.9996	0.0003	4	59.7060	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_070772.1	45171	No terminal repeats	NA	81	11	0.9996	0.0003	9	64.8487	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_JBFTBT010000013.1	32484	No terminal repeats	NA	43	11	0.9996	0.0003	19	56.3306	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK046423.1	16920	No terminal repeats	NA	21	11	0.9996	0.0003	3	14.7092	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK055226.1	16188	No terminal repeats	NA	19	11	0.9996	0.0003	3	23.7293	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAFWHK010000015.1	17658	No terminal repeats	NA	24	11	0.9996	0.0003	4	20.3851	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK016182.1	39066	No terminal repeats	NA	67	11	0.9996	0.0003	1	14.9124	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MZ643272.1	54820	No terminal repeats	NA	98	11	0.9996	0.0003	1	109.1715	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Herelleviridae
+BK032718.1	19654	ITR	NA	26	11	0.9996	0.0003	4	22.0868	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_048765.1	32238	No terminal repeats	NA	46	11	0.9996	0.0003	6	31.3292	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+RFPH01000020.1	39749	No terminal repeats	NA	65	11	0.9996	0.0003	6	76.7469	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Kyanoviridae
+NHKS02000010.1	40000	No terminal repeats	NA	67	11	0.9996	0.0003	7	85.1124	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAFUBD010000185.1	12130	No terminal repeats	NA	15	11	0.9996	0.0003	3	11.7612	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MN855816.1	13366	No terminal repeats	NA	16	11	0.9996	0.0003	7	13.8229	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_055720.1	60599	No terminal repeats	NA	69	11	0.9996	0.0003	32	99.1533	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Straboviridae
+BK039300.1	51639	No terminal repeats	NA	69	11	0.9996	0.0003	8	50.1909	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+RGCF01000015.1	46614	No terminal repeats	NA	67	11	0.9996	0.0003	7	70.5351	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAPNUL010000601.1	5081	No terminal repeats	NA	6	11	0.9996	0.0003	0	6.2088	Viruses;;;;;;Ampullaviridae
+BK026586.1	16547	ITR	NA	22	11	0.9996	0.0003	4	16.4274	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_048096.1	44103	No terminal repeats	NA	66	11	0.9996	0.0003	8	73.8008	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAGLQU010000910.1	3888	No terminal repeats	NA	9	11	0.9996	0.0003	2	9.4313	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAKTLW010000029.1	14550	No terminal repeats	NA	17	11	0.9996	0.0003	5	19.6362	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_027989.1	53237	No terminal repeats	NA	65	11	0.9996	0.0003	4	75.5087	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAYNJB010000027.1	10069	No terminal repeats	NA	7	11	0.9996	0.0003	2	6.8731	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Kyanoviridae
+BK050238.1	22303	No terminal repeats	NA	39	11	0.9996	0.0003	5	25.4809	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+RGIZ01000643.1	1560	No terminal repeats	NA	3	11	0.9996	0.0003	1	3.4366	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_054989.1	36032	No terminal repeats	NA	49	11	0.9996	0.0003	6	37.8503	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_QJSQ01000015.1|provirus_22400_56116	33717	Provirus	22400-56116	49	11	0.9996	0.0003	6	35.9561	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+PAWD01000051.1	19724	No terminal repeats	NA	40	11	0.9996	0.0003	3	38.3360	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK042305.1	19227	No terminal repeats	NA	25	11	0.9996	0.0003	3	20.0494	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MG696115.1	39825	DTR	NA	67	11	0.9996	0.0003	13	54.2764	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK015689.1	32402	No terminal repeats	NA	35	4	0.9996	0.0003	8	46.1583	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_JADKQD010000070.1	13699	No terminal repeats	NA	22	11	0.9996	0.0003	1	15.1725	Viruses;Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Kalamavirales;Tectiviridae
+RHBQ01001720.1	1020	No terminal repeats	NA	2	11	0.9996	0.0003	1	3.4366	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+SSGX01000010.1	35518	No terminal repeats	NA	40	11	0.9996	0.0003	6	31.6411	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+PABJ01000126.1	9795	No terminal repeats	NA	10	11	0.9996	0.0003	3	15.3267	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Kyanoviridae
+NC_073467.1	16662	ITR	NA	23	11	0.9996	0.0003	3	11.7805	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+DATMJF010000568.1	4058	No terminal repeats	NA	7	11	0.9996	0.0003	4	10.3097	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Salasmaviridae
+BK019131.1	16817	No terminal repeats	NA	24	11	0.9996	0.0003	3	17.0872	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK066403.1	38567	ITR	NA	30	11	0.9996	0.0003	13	32.6411	Viruses;Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Rowavirales;Adenoviridae
+BK057480.1	61421	No terminal repeats	NA	59	11	0.9996	0.0003	5	47.8896	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_SDLG01000004.1|provirus_27655_61760	34106	Provirus	27655-61760	49	11	0.9996	0.0003	17	62.5713	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MUGE01000023.1	9941	No terminal repeats	NA	18	11	0.9996	0.0003	3	15.7208	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JABWBX010000001.1	50590	DTR	NA	84	11	0.9996	0.0003	10	59.3980	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAGCKX010000186.1	17061	No terminal repeats	NA	20	11	0.9996	0.0003	3	17.1745	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK016585.1	15384	ITR	NA	18	11	0.9996	0.0003	4	17.9604	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+QMOB01000019.1	24705	No terminal repeats	NA	34	11	0.9996	0.0003	0	10.6596	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+PBQC01000014.1	28701	No terminal repeats	NA	27	11	0.9996	0.0003	9	43.2486	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_073479.1	18418	ITR	NA	25	11	0.9996	0.0003	3	20.3792	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+RPPI01000046.1	18336	No terminal repeats	NA	26	11	0.9996	0.0003	4	11.1967	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZAB01000135.1	39609	No terminal repeats	NA	28	11	0.9996	0.0003	8	42.3788	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MW805361.1	55437	No terminal repeats	NA	92	11	0.9996	0.0003	9	62.2753	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Straboviridae
+NC_049340.1	60776	No terminal repeats	NA	84	11	0.9996	0.0003	2	31.6075	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK018514.1	18083	No terminal repeats	NA	24	11	0.9996	0.0003	4	18.6461	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK057890.1	16196	ITR	NA	25	11	0.9996	0.0003	3	17.1386	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK048658.1	51050	No terminal repeats	NA	42	11	0.9996	0.0003	2	25.2264	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NHDS01000015.1	35756	No terminal repeats	NA	26	11	0.9996	0.0003	9	42.4303	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAQCFA010000248.1	3129	No terminal repeats	NA	6	11	0.9996	0.0003	3	8.0737	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+LR796964.1	40034	No terminal repeats	NA	61	11	0.9996	0.0003	2	19.6383	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_NZML01000052.1	13119	No terminal repeats	NA	13	11	0.9996	0.0003	6	19.8652	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_JAUJRI010000006.1|provirus_27289_61967	34679	Provirus	27289-61967	54	11	0.9996	0.0003	7	50.2244	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_JMKS01000002.1	14829	No terminal repeats	NA	28	11	0.9996	0.0003	1	14.6954	Viruses;Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Kalamavirales;Tectiviridae
+LR796738.1	48306	No terminal repeats	NA	61	11	0.9996	0.0003	2	30.5724	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+DRFP01000366.1	5909	No terminal repeats	NA	16	11	0.9996	0.0003	0	7.7589	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAXEAR010000123.1	14874	ITR	NA	21	11	0.9996	0.0003	4	15.0247	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK015897.1	14274	No terminal repeats	NA	21	11	0.9996	0.0003	3	18.3992	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAFWJA010000006.1	15703	ITR	NA	21	11	0.9996	0.0003	4	15.3530	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NYTQ01000159.1	31653	No terminal repeats	NA	55	11	0.9996	0.0003	6	81.5540	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Kyanoviridae
+DNHK01000407.1	7275	No terminal repeats	NA	16	11	0.9996	0.0003	2	20.0614	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+LR798287.1	60593	No terminal repeats	NA	66	11	0.9996	0.0003	19	82.5627	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_PVRV01000023.1|provirus_24334_61589	37256	Provirus	24334-61589	59	11	0.9996	0.0003	11	42.2843	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_020850.1	38374	DTR	NA	58	11	0.9996	0.0003	16	61.8658	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MK071979.1	51821	No terminal repeats	NA	46	11	0.9996	0.0003	0	7.5009	Viruses;Varidnaviria;Bamfordvirae;Nucleocytoviricota;Megaviricetes;;
+NZ_CP061539.1|provirus_24922_61394	36473	Provirus	24922-61394	49	11	0.9996	0.0003	5	34.5701	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_RSBD01000006.1	13501	No terminal repeats	NA	25	11	0.9996	0.0003	1	17.5716	Viruses;Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Kalamavirales;Tectiviridae
+SOKI01000156.1	47396	No terminal repeats	NA	71	11	0.9996	0.0003	3	29.2724	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAFZDT010000078.1	16443	No terminal repeats	NA	22	11	0.9996	0.0003	3	18.2597	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAFONU010000182.1	3884	No terminal repeats	NA	6	11	0.9996	0.0003	0	6.4774	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAFWWV010000134.1	13624	No terminal repeats	NA	21	11	0.9996	0.0003	3	13.2806	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JACNHO010000020.1	37260	No terminal repeats	NA	28	11	0.9996	0.0003	10	39.9684	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_VFVY01000001.1|provirus_23577_62550	38974	Provirus	23577-62550	55	11	0.9996	0.0003	7	54.5517	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+LR796372.1	38073	No terminal repeats	NA	59	11	0.9996	0.0003	5	63.8674	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_FOOW01000005.1|provirus_25288_35655	10368	Provirus	25288-35655	17	11	0.9996	0.0003	1	13.2284	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+SSEH01000007.1	6156	No terminal repeats	NA	6	11	0.9996	0.0003	1	10.2010	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Schitoviridae
+JAGNRH010000091.1	16462	No terminal repeats	NA	10	11	0.9996	0.0003	2	13.1371	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_LNMB01000058.1	17791	No terminal repeats	NA	26	11	0.9996	0.0003	3	13.0935	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_JANV01000006.1	13112	No terminal repeats	NA	22	11	0.9996	0.0003	1	10.7657	Viruses;Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Kalamavirales;Tectiviridae
+DNNM01000223.1	9471	No terminal repeats	NA	19	11	0.9996	0.0003	2	14.1513	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK033642.1	17925	ITR	NA	22	11	0.9996	0.0003	5	18.1380	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+DMCA01000255.1	2570	No terminal repeats	NA	5	11	0.9996	0.0003	0	7.5207	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK052025.1	17373	No terminal repeats	NA	23	11	0.9996	0.0003	4	14.9331	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK054684.1	25090	No terminal repeats	NA	42	11	0.9996	0.0003	5	26.3339	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_AYYH01000084.1	5468	No terminal repeats	NA	11	11	0.9996	0.0003	0	4.9855	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_JBCIVJ010000001.1|provirus_25478_40166	14689	Provirus	25478-40166	20	11	0.9996	0.0003	1	16.3776	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_055062.1	10611	ITR	NA	22	11	0.9996	0.0003	2	7.5081	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZDF01000038.1	6631	No terminal repeats	NA	8	11	0.9996	0.0003	3	13.2285	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK028063.1	13769	ITR	NA	18	11	0.9996	0.0003	4	20.6194	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_CADFFX010000001.1|provirus_18279_61705	43427	Provirus	18279-61705	57	11	0.9996	0.0003	8	48.1882	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK014964.1	18955	No terminal repeats	NA	21	11	0.9996	0.0003	1	14.3777	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JBAZJG010000015.1	39233	DTR	NA	72	11	0.9996	0.0003	7	36.2925	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK023926.1	16988	ITR	NA	29	11	0.9996	0.0003	5	18.0255	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JALFXO010000092.1	14190	No terminal repeats	NA	20	11	0.9996	0.0003	3	17.1828	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MK387337.2	60896	No terminal repeats	NA	85	11	0.9996	0.0003	12	62.9803	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK055865.1	18310	No terminal repeats	NA	25	11	0.9996	0.0003	4	20.4630	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK021178.1	14660	No terminal repeats	NA	17	11	0.9996	0.0003	3	16.4334	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAGCAI010000328.1	35539	No terminal repeats	NA	57	11	0.9996	0.0003	8	35.4344	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_CP083093.1	14897	No terminal repeats	NA	26	11	0.9996	0.0003	1	19.4356	Viruses;Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Kalamavirales;Tectiviridae
+NZ_VWTY01000003.1|provirus_23556_61289	37734	Provirus	23556-61289	55	11	0.9996	0.0003	9	46.2424	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+LR796189.1	63593	No terminal repeats	NA	90	11	0.9996	0.0003	5	30.9333	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MK892627.1	47054	No terminal repeats	NA	87	11	0.9996	0.0003	8	72.4936	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_NUDL01000035.1	14555	No terminal repeats	NA	27	11	0.9996	0.0003	1	22.2778	Viruses;Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Kalamavirales;Tectiviridae
+NC_014915.1|provirus_30001_60548	30548	Provirus	30001-60548	47	11	0.9996	0.0003	12	43.6402	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAGCBE010000503.1	15991	ITR	NA	26	11	0.9996	0.0003	5	22.4927	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+OR032571.1	60491	No terminal repeats	NA	87	11	0.9996	0.0003	11	120.0390	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Kyanoviridae
+BK038204.1	15991	No terminal repeats	NA	18	11	0.9996	0.0003	4	15.1214	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK015667.1	45300	No terminal repeats	NA	64	11	0.9996	0.0003	8	50.5354	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_RQGC01000009.1	39917	No terminal repeats	NA	70	11	0.9996	0.0003	7	29.6889	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_061421.1	62747	No terminal repeats	NA	78	11	0.9996	0.0003	1	42.0737	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+AY822469.1	1199	No terminal repeats	NA	1	11	0.9996	0.0003	1	1.7183	Viruses;Riboviria;Orthornavirae;Negarnaviricota;Bunyaviricetes;Elliovirales;Peribunyaviridae
+BK059154.1	59207	No terminal repeats	NA	45	4	0.9996	0.0003	6	35.8615	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_JADMTJ010000006.1|provirus_9964_62904	52941	Provirus	9964-62904	64	11	0.9996	0.0003	2	63.6284	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MK072165.1	7764	No terminal repeats	NA	6	11	0.9996	0.0003	1	3.4366	Viruses;Varidnaviria;Bamfordvirae;Nucleocytoviricota;Megaviricetes;Imitervirales;Mimiviridae
+DPIT01000287.1	5048	No terminal repeats	NA	5	11	0.9996	0.0003	2	6.8731	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+LR796379.1	37586	No terminal repeats	NA	60	11	0.9996	0.0003	4	28.6320	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZZN01000086.1	14642	No terminal repeats	NA	23	11	0.9996	0.0003	1	26.0029	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NHBN01000015.1	12277	No terminal repeats	NA	18	11	0.9996	0.0003	5	25.2565	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK051648.1	16165	No terminal repeats	NA	22	11	0.9996	0.0003	4	18.8054	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+VGTM01000170.1	2712	No terminal repeats	NA	4	11	0.9996	0.0003	2	6.3554	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Kyanoviridae
+BK034520.1	40554	No terminal repeats	NA	48	11	0.9996	0.0003	3	18.7062	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK019891.1	15700	No terminal repeats	NA	16	11	0.9996	0.0003	3	15.3689	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK033632.1	48902	No terminal repeats	NA	59	11	0.9996	0.0003	9	40.1494	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_NVES01000051.1	14411	No terminal repeats	NA	30	11	0.9996	0.0003	1	19.4418	Viruses;Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Kalamavirales;Tectiviridae
+BK036925.1	16111	No terminal repeats	NA	18	11	0.9996	0.0003	4	22.9370	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAFONJ010000206.1	17127	No terminal repeats	NA	25	11	0.9996	0.0003	3	17.0767	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_CP063191.1|provirus_25069_60890	35822	Provirus	25069-60890	60	11	0.9996	0.0003	7	43.6055	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK046102.1	19606	No terminal repeats	NA	23	11	0.9996	0.0003	5	24.0281	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK021513.1	16449	ITR	NA	24	11	0.9996	0.0003	3	16.0003	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+LR796380.1	60599	No terminal repeats	NA	78	11	0.9996	0.0003	18	80.9907	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAAXKO010000102.1	13993	No terminal repeats	NA	16	11	0.9996	0.0003	4	14.7151	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAGCBE010000332.1	13156	No terminal repeats	NA	21	11	0.9996	0.0003	3	17.1828	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+PAAV01000055.1	60581	No terminal repeats	NA	48	11	0.9996	0.0003	10	62.7167	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JBDKTK010000185.1	4546	No terminal repeats	NA	4	11	0.9996	0.0003	0	4.8764	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MEQM01000011.1	15211	No terminal repeats	NA	28	11	0.9996	0.0003	3	16.4246	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAGCYM010000072.1	19699	No terminal repeats	NA	31	11	0.9996	0.0003	3	19.7902	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAGAJW010000058.1	5436	No terminal repeats	NA	9	11	0.9996	0.0003	1	6.8731	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+OP074244.1	15420	ITR	NA	21	11	0.9996	0.0003	4	16.4225	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_JAZHBO010000002.1|provirus_23642_61583	37942	Provirus	23642-61583	52	11	0.9996	0.0003	6	43.2482	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_024358.1	41750	DTR	NA	41	11	0.9996	0.0003	5	22.3289	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Saffermanviridae
+MK072069.1	43544	No terminal repeats	NA	44	11	0.9996	0.0003	0	4.9766	Viruses;Varidnaviria;Bamfordvirae;Nucleocytoviricota;Megaviricetes;Imitervirales;Mimiviridae
+MH622927.1	58279	No terminal repeats	NA	86	11	0.9996	0.0003	12	58.1206	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MK072066.1	62243	No terminal repeats	NA	71	11	0.9996	0.0003	1	6.2653	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+ON456333.1	41691	No terminal repeats	NA	53	11	0.9996	0.0003	5	76.2254	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Zierdtviridae
+BK051574.1	20280	No terminal repeats	NA	25	11	0.9996	0.0003	3	12.0256	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+SSDU01000019.1	20519	No terminal repeats	NA	30	11	0.9996	0.0003	4	29.1920	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MT104474.1	46593	DTR	NA	60	11	0.9996	0.0003	15	64.5822	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MK892711.1	44698	DTR	NA	78	11	0.9996	0.0003	5	49.9013	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MT657339.1	63173	No terminal repeats	NA	87	11	0.9996	0.0003	8	86.3058	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+DNBL01000349.1	15981	No terminal repeats	NA	15	11	0.9996	0.0003	6	18.3308	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_JAGGQV010000015.1	14646	No terminal repeats	NA	24	11	0.9996	0.0003	1	13.6212	Viruses;Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Kalamavirales;Tectiviridae
+NZ_NUEL01000085.1	13684	No terminal repeats	NA	22	11	0.9996	0.0003	1	16.1177	Viruses;Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Kalamavirales;Tectiviridae
+MG269973.1	38840	No terminal repeats	NA	48	11	0.9996	0.0003	3	26.2674	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+PBYV01000032.1	20610	No terminal repeats	NA	27	11	0.9996	0.0003	9	33.8735	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK018285.1	16960	ITR	NA	19	11	0.9996	0.0003	3	18.5426	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+PAPA01000017.1	60596	No terminal repeats	NA	85	11	0.9996	0.0003	20	71.0052	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+RHBH01000012.1	36713	No terminal repeats	NA	33	11	0.9996	0.0003	10	42.2907	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_021788.1	62888	No terminal repeats	NA	48	11	0.9996	0.0003	2	51.6652	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAPJNE010000272.1	1316	No terminal repeats	NA	3	11	0.9996	0.0003	1	3.4366	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+OP074819.1	16545	No terminal repeats	NA	21	11	0.9996	0.0003	6	18.5364	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_CP009574.1|provirus_1_34657	34657	Provirus	1-34657	54	11	0.9996	0.0003	8	24.0918	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_004678.1	16784	ITR	NA	20	11	0.9996	0.0003	2	25.3660	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Rountreeviridae
+NZ_NUIO01000079.1	14408	No terminal repeats	NA	23	11	0.9996	0.0003	1	16.2934	Viruses;Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Kalamavirales;Tectiviridae
+BK057953.1	14712	No terminal repeats	NA	17	11	0.9996	0.0003	3	17.4902	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK026342.1	14542	No terminal repeats	NA	18	11	0.9996	0.0003	3	12.9387	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+LR798294.1	60569	No terminal repeats	NA	82	11	0.9996	0.0003	25	122.3975	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAQWED010000001.1	45109	No terminal repeats	NA	61	11	0.9996	0.0003	12	50.3650	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAGCBE010000540.1	16222	ITR	NA	25	11	0.9996	0.0003	3	17.1828	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK032721.1	42364	No terminal repeats	NA	58	11	0.9996	0.0003	3	17.5473	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAUZPX010000090.1	7287	No terminal repeats	NA	15	11	0.9996	0.0003	3	8.5914	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+PP212902.1	18318	ITR	NA	22	11	0.9996	0.0003	3	23.9690	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Rountreeviridae
+LR796875.1	38582	No terminal repeats	NA	62	11	0.9996	0.0003	3	23.6596	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MG752970.1	63773	No terminal repeats	NA	68	11	0.9996	0.0003	8	60.5359	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK059131.1	47455	No terminal repeats	NA	57	11	0.9996	0.0003	5	33.2909	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MT364305.1	60527	No terminal repeats	NA	55	11	0.9996	0.0003	7	8.9287	Viruses;Varidnaviria;Bamfordvirae;Nucleocytoviricota;Pokkesviricetes;Chitovirales;Poxviridae
+SOJH01000736.1	3182	No terminal repeats	NA	4	11	0.9996	0.0003	1	4.0541	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_005360.1	16473	No terminal repeats	NA	31	11	0.9996	0.0003	1	38.3826	Viruses;;;;;;Fuselloviridae
+MK892736.1	56862	No terminal repeats	NA	63	11	0.9996	0.0003	2	59.2594	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+LR796420.1	60473	No terminal repeats	NA	86	11	0.9996	0.0003	2	94.0992	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK039483.1	16096	ITR	NA	23	11	0.9996	0.0003	3	15.4645	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAFWHM010000026.1	5190	No terminal repeats	NA	11	11	0.9996	0.0003	0	3.4366	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK051693.1	60638	No terminal repeats	NA	51	11	0.9996	0.0003	1	21.6705	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZGJ01000009.1	19342	No terminal repeats	NA	19	11	0.9996	0.0003	1	15.0597	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK026416.1	13417	No terminal repeats	NA	17	11	0.9996	0.0003	3	17.0872	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+LR798460.1	45202	No terminal repeats	NA	70	11	0.9996	0.0003	4	19.5872	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_JAAKGO010000015.1	53482	No terminal repeats	NA	82	11	0.9996	0.0003	9	45.5303	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_JAGINP010000001.1|provirus_27953_63996	36044	Provirus	27953-63996	44	11	0.9996	0.0003	8	29.8918	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK014698.1	19597	No terminal repeats	NA	23	11	0.9996	0.0003	3	23.6870	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+DOWI01000115.1	32699	No terminal repeats	NA	57	11	0.9996	0.0003	9	43.9305	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+LR796237.1	61628	No terminal repeats	NA	81	11	0.9996	0.0003	6	72.9364	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+RFPU01000039.1	11341	No terminal repeats	NA	13	11	0.9996	0.0003	6	21.4048	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Kyanoviridae
+JAFRDD010000167.1	20265	No terminal repeats	NA	37	11	0.9996	0.0003	1	14.2149	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_048740.1	19428	No terminal repeats	NA	28	11	0.9996	0.0003	3	27.2391	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_KB442455.1|provirus_20982_61321	40340	Provirus	20982-61321	60	11	0.9996	0.0003	7	35.2051	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK036080.1	17530	ITR	NA	20	11	0.9996	0.0003	5	16.1750	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_LMQT01000001.1|provirus_24213_60994	36782	Provirus	24213-60994	45	11	0.9996	0.0003	0	23.0428	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_QTPW01000007.1|provirus_26132_62177	36046	Provirus	26132-62177	54	11	0.9996	0.0003	5	44.9060	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MK500609.1	31840	No terminal repeats	NA	28	11	0.9996	0.0003	1	6.4113	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_JAYCLI010000120.1|provirus_3_38383	38381	Provirus	3-38383	52	11	0.9996	0.0003	6	41.9247	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK059098.1	25730	No terminal repeats	NA	47	11	0.9996	0.0003	6	34.4814	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAGBYG010000070.1	7755	No terminal repeats	NA	14	11	0.9996	0.0003	2	6.8731	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK041697.1	13797	No terminal repeats	NA	21	11	0.9996	0.0003	7	13.6056	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_RXJN01000061.1|provirus_14813_56512	41700	Provirus	14813-56512	44	11	0.9996	0.0003	2	31.5331	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+DRFP01000137.1	16521	No terminal repeats	NA	25	11	0.9996	0.0003	1	7.6126	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK047473.1	48574	No terminal repeats	NA	62	11	0.9996	0.0003	4	25.0287	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+LR796415.1	36473	No terminal repeats	NA	54	11	0.9996	0.0003	1	11.4905	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAGCAQ010000015.1	16442	ITR	NA	30	11	0.9996	0.0003	3	16.4880	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_042132.1	61670	No terminal repeats	NA	76	11	0.9996	0.0003	6	86.6696	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_075973.1	37031	ITR	NA	27	11	0.9996	0.0003	15	36.0125	Viruses;Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Rowavirales;Adenoviridae
+NZ_DALZIG010000009.1|provirus_22981_61540	38560	Provirus	22981-61540	57	11	0.9996	0.0003	9	49.7394	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_RYYR01000002.1|provirus_3_39174	39172	Provirus	3-39174	62	11	0.9996	0.0003	11	53.4257	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+PAMM01000035.1	19209	No terminal repeats	NA	17	11	0.9996	0.0003	8	25.1936	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_027348.2	60430	No terminal repeats	NA	80	11	0.9996	0.0003	4	53.2028	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Schitoviridae
+NZ_JAVSPC010000041.1	18097	ITR	NA	20	11	0.9996	0.0003	2	27.6271	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Rountreeviridae
+LC597490.1	51170	No terminal repeats	NA	74	11	0.9996	0.0003	3	18.9185	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MK170447.1	57665	No terminal repeats	NA	78	11	0.9996	0.0003	3	39.6167	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+LR796696.1	60755	No terminal repeats	NA	66	11	0.9995	0.0003	2	21.5989	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAOMIO010000002.1	10604	No terminal repeats	NA	10	11	0.9995	0.0003	4	17.0828	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+DATCQX010001001.1|provirus_33_35403	35371	Provirus	33-35403	45	11	0.9995	0.0003	9	41.3556	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_JAHSPF010000002.1|provirus_3_38718	38716	Provirus	3-38718	56	11	0.9995	0.0003	8	52.7738	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+LR796388.1	60602	No terminal repeats	NA	110	11	0.9995	0.0003	12	75.1594	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_FQYI01000008.1|provirus_3_36291	36289	Provirus	3-36291	49	11	0.9995	0.0003	7	40.8826	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JABDMT010000092.1	3132	No terminal repeats	NA	9	11	0.9995	0.0003	0	11.6953	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_027399.1	43110	No terminal repeats	NA	36	11	0.9995	0.0003	2	39.7857	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAGBVS010000120.1	5297	No terminal repeats	NA	8	11	0.9995	0.0003	2	5.3452	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK043980.1	12672	No terminal repeats	NA	17	11	0.9995	0.0003	3	13.4168	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK039347.1	14788	No terminal repeats	NA	16	11	0.9995	0.0003	3	18.5745	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+DPHC01000024.1	55931	No terminal repeats	NA	45	11	0.9995	0.0003	13	64.8535	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MK803322.1	59557	No terminal repeats	NA	88	11	0.9995	0.0003	11	61.8194	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+SEGT01000162.1	2674	No terminal repeats	NA	3	11	0.9995	0.0003	0	3.0847	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_VDDA01000002.1|provirus_573_45098	44526	Provirus	573-45098	64	11	0.9995	0.0003	11	50.2583	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAGCAQ010000016.1	18208	ITR	NA	27	11	0.9995	0.0003	4	13.3042	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_JAMAVP010000019.1	14150	No terminal repeats	NA	25	11	0.9995	0.0003	1	15.6025	Viruses;Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Kalamavirales;Tectiviridae
+MN695334.1	33668	No terminal repeats	NA	24	11	0.9995	0.0003	4	34.6366	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Kyanoviridae
+MK113949.1	41683	No terminal repeats	NA	58	11	0.9995	0.0003	8	24.4944	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZRO01000042.1	8735	No terminal repeats	NA	10	11	0.9995	0.0003	3	16.7020	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Kyanoviridae
+NZ_BCMH01000012.1|provirus_2_37964	37963	Provirus	2-37964	62	11	0.9995	0.0003	8	32.4758	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+RGCK01000585.1	1771	No terminal repeats	NA	3	11	0.9995	0.0003	1	2.9188	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK016086.1	60956	No terminal repeats	NA	105	11	0.9995	0.0003	1	31.2656	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAVXLF010000001.1	60557	No terminal repeats	NA	94	11	0.9995	0.0003	14	50.3207	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+QFQL01000019.1|provirus_19611_61212	41602	Provirus	19611-61212	73	11	0.9995	0.0003	11	38.2565	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK051681.1	12864	No terminal repeats	NA	21	11	0.9995	0.0003	2	13.7463	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_022751.1	42480	No terminal repeats	NA	37	11	0.9995	0.0003	4	25.6826	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Saffermanviridae
+JAGCOX010000063.1	25216	No terminal repeats	NA	40	11	0.9995	0.0003	7	25.8401	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+LR796327.1	35479	No terminal repeats	NA	50	11	0.9995	0.0003	5	27.0346	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAOLFF010000004.1	11750	No terminal repeats	NA	16	11	0.9995	0.0003	5	26.9228	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_JALPRX010000165.1	13403	No terminal repeats	NA	12	11	0.9995	0.0003	3	15.6855	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_055061.1	17253	No terminal repeats	NA	29	11	0.9995	0.0003	0	5.1970	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_031008.1	17861	ITR	NA	22	11	0.9995	0.0003	3	26.5662	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Rountreeviridae
+NZ_JAQTPQ010000267.1	4610	No terminal repeats	NA	5	11	0.9995	0.0003	2	6.1953	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_DFLS01000009.1|provirus_18107_59176	41070	Provirus	18107-59176	71	11	0.9995	0.0003	11	56.4450	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JBEVXU010000053.1|provirus_284_19644	19361	Provirus	284-19644	40	11	0.9995	0.0003	0	10.1483	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAFCZZ010000010.1	15859	No terminal repeats	NA	34	11	0.9995	0.0003	0	13.4915	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+LR798249.1	33532	No terminal repeats	NA	54	11	0.9995	0.0003	5	36.8688	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_CADFGL010000080.1	4753	No terminal repeats	NA	5	11	0.9995	0.0003	0	5.0399	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK037364.1	14163	No terminal repeats	NA	20	11	0.9995	0.0003	3	13.7463	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_009989.1	27751	ITR	NA	24	11	0.9995	0.0003	7	27.4863	Viruses;Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Rowavirales;Adenoviridae
+JAVEZW010000012.1	35322	No terminal repeats	NA	50	11	0.9995	0.0003	8	44.1008	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_CP030771.1|provirus_2_37430	37429	Provirus	2-37430	48	11	0.9995	0.0003	11	61.4830	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK045733.1	27466	No terminal repeats	NA	23	11	0.9995	0.0003	4	22.3384	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_CP016447.1	61073	No terminal repeats	NA	77	11	0.9995	0.0003	8	66.1863	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_JBAZQQ010000013.1	36414	No terminal repeats	NA	56	11	0.9995	0.0003	4	13.8572	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_CP152417.1|provirus_16902_61564	44663	Provirus	16902-61564	59	11	0.9995	0.0003	11	52.2712	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_055060.1	18266	ITR	NA	33	11	0.9995	0.0003	0	6.8515	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAPJNE010000659.1	1451	No terminal repeats	NA	3	11	0.9995	0.0003	1	5.1548	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NHDP01000001.1	39744	No terminal repeats	NA	41	11	0.9995	0.0003	8	63.7649	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Kyanoviridae
+JACNJA010000491.1	11999	No terminal repeats	NA	13	11	0.9995	0.0003	2	20.5653	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_024451.1	60809	No terminal repeats	NA	67	11	0.9995	0.0003	2	25.5233	Viruses;Varidnaviria;Bamfordvirae;Nucleocytoviricota;Megaviricetes;;
+BK029096.1	14144	No terminal repeats	NA	15	11	0.9995	0.0003	3	18.5745	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_012530.1	60794	No terminal repeats	NA	86	11	0.9995	0.0003	8	52.5715	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Herelleviridae
+JBDRRX010000202.1	40991	No terminal repeats	NA	79	11	0.9995	0.0003	6	26.4644	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK047030.1	14520	No terminal repeats	NA	16	11	0.9995	0.0003	3	17.0872	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MT863727.1	55761	No terminal repeats	NA	58	11	0.9995	0.0003	12	61.5943	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+LR796938.1	49243	No terminal repeats	NA	63	11	0.9995	0.0003	3	15.5254	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAXFPW010000026.1	12061	No terminal repeats	NA	19	11	0.9995	0.0003	4	18.6445	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_AP018907.1|provirus_1_36285	36285	Provirus	1-36285	45	11	0.9995	0.0003	5	28.5464	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+RGDD01000025.1	32711	No terminal repeats	NA	53	11	0.9995	0.0003	14	66.0758	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_015717.1|provirus_12755_61474	48720	Provirus	12755-61474	72	11	0.9995	0.0003	7	36.2848	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAFWCC010000017.1	16150	ITR	NA	19	11	0.9995	0.0003	4	12.6907	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+AY848684.1	14935	ITR	NA	26	11	0.9995	0.0003	6	17.9885	Viruses;Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Kalamavirales;Tectiviridae
+MZ603080.1	35636	No terminal repeats	NA	34	11	0.9995	0.0003	17	37.8022	Viruses;Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Rowavirales;Adenoviridae
+NZ_AKKB01000094.1	13935	No terminal repeats	NA	29	11	0.9995	0.0003	1	10.4842	Viruses;Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Kalamavirales;Tectiviridae
+MN830296.1	61226	No terminal repeats	NA	63	11	0.9995	0.0003	4	8.0438	Viruses;Varidnaviria;Bamfordvirae;Nucleocytoviricota;;;
+JAPKXG010000031.1	15572	No terminal repeats	NA	23	11	0.9995	0.0003	3	15.3403	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_NKDB02000002.1|provirus_26820_61376	34557	Provirus	26820-61376	48	11	0.9995	0.0003	8	37.9508	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_014637.1	62612	No terminal repeats	NA	52	11	0.9995	0.0003	0	9.7491	Viruses;Varidnaviria;Bamfordvirae;Nucleocytoviricota;Megaviricetes;Imitervirales;Mimiviridae
+MG592624.1	28145	No terminal repeats	NA	42	11	0.9995	0.0003	2	13.8627	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_055063.1	10272	ITR	NA	20	11	0.9995	0.0003	1	4.5426	Viruses;Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;;
+LR798215.1	36914	No terminal repeats	NA	61	11	0.9995	0.0003	7	23.1938	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK032497.1	60947	No terminal repeats	NA	52	11	0.9995	0.0003	0	4.0569	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK036664.1	12745	No terminal repeats	NA	15	11	0.9995	0.0003	3	13.4795	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK016121.1	47848	No terminal repeats	NA	67	11	0.9995	0.0003	6	49.0857	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAGCAI010000547.1	13940	ITR	NA	15	11	0.9995	0.0003	2	13.3746	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_JAERME010000001.1|provirus_13872_55208	41337	Provirus	13872-55208	65	11	0.9995	0.0003	6	36.7728	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_JBHXMC010000013.1	63017	No terminal repeats	NA	99	11	0.9995	0.0003	7	75.9893	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAGCJE010000095.1	14574	No terminal repeats	NA	20	11	0.9995	0.0003	3	14.9227	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_PIQW01000001.1|provirus_24962_60650	35689	Provirus	24962-60650	52	11	0.9995	0.0003	4	40.6037	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+DORY01000205.1	2529	No terminal repeats	NA	5	11	0.9995	0.0003	1	5.1548	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MT708547.1	63539	No terminal repeats	NA	83	11	0.9995	0.0003	3	78.8259	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+QMRH01000028.1	26094	No terminal repeats	NA	62	11	0.9995	0.0003	0	12.4786	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_016163.1	60710	No terminal repeats	NA	74	11	0.9995	0.0003	5	38.4110	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK017080.1	13490	ITR	NA	20	11	0.9995	0.0003	5	19.2881	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK055734.1	43198	No terminal repeats	NA	53	11	0.9995	0.0003	11	46.5628	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+AP014200.1	32086	No terminal repeats	NA	22	11	0.9995	0.0003	3	33.5346	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Kyanoviridae
+BK054670.1	13330	ITR	NA	18	11	0.9995	0.0003	4	17.5698	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_029692.1	61220	No terminal repeats	NA	73	11	0.9995	0.0003	4	24.8296	Viruses;Varidnaviria;Bamfordvirae;Nucleocytoviricota;Megaviricetes;Pimascovirales;Marseilleviridae
+BK057936.1	14370	ITR	NA	20	11	0.9995	0.0003	3	15.4645	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+DVIU01000089.1	5729	No terminal repeats	NA	9	11	0.9995	0.0003	0	5.1548	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+RGWU01000031.1	16200	No terminal repeats	NA	27	11	0.9995	0.0003	8	33.1978	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Kyanoviridae
+NZ_VEKM01000054.1	15343	No terminal repeats	NA	23	11	0.9995	0.0003	1	15.8334	Viruses;Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Kalamavirales;Tectiviridae
+JALFMP010000046.1	13272	No terminal repeats	NA	18	11	0.9995	0.0003	5	17.8409	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+DAOROP010000326.1	1376	No terminal repeats	NA	3	11	0.9995	0.0003	1	2.9188	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAFLUY010000004.1	60677	No terminal repeats	NA	36	11	0.9995	0.0003	0	21.2035	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JALNZL010000085.1	8965	No terminal repeats	NA	12	11	0.9994	0.0003	2	8.5342	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+PBKW01000001.1	26153	No terminal repeats	NA	18	11	0.9994	0.0003	6	24.0559	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JBEVXW010000014.1|provirus_4425_21852	17428	Provirus	4425-21852	32	11	0.9994	0.0003	0	9.8694	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_JBIAJN010000016.1|provirus_24812_63728	38917	Provirus	24812-63728	51	11	0.9994	0.0003	8	38.1798	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK016314.1	14758	No terminal repeats	NA	21	11	0.9994	0.0003	3	14.4607	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NVXB01000001.1	60611	No terminal repeats	NA	81	11	0.9994	0.0003	17	76.8229	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_JAERLO010000001.1|provirus_27272_61723	34452	Provirus	27272-61723	41	11	0.9994	0.0003	15	42.7434	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MW067004.1	31094	No terminal repeats	NA	29	11	0.9994	0.0003	10	42.9508	Viruses;Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Rowavirales;Adenoviridae
+JBIWMT010000003.1|provirus_3_35680	35678	Provirus	3-35680	57	11	0.9994	0.0003	7	37.8314	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAGCOX010000050.1	7780	No terminal repeats	NA	13	11	0.9994	0.0003	0	6.8731	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+ON758385.1	60605	No terminal repeats	NA	96	11	0.9994	0.0003	7	64.2114	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK029952.1	15843	ITR	NA	26	11	0.9994	0.0003	5	17.4208	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+DLWG01000245.1	24030	No terminal repeats	NA	23	11	0.9994	0.0003	0	4.9061	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+KM096544.1	43755	ITR	NA	38	11	0.9994	0.0003	14	54.9850	Viruses;Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Rowavirales;Adenoviridae
+BK013347.1	41208	No terminal repeats	NA	52	11	0.9994	0.0003	3	16.7327	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZGN01000038.1	60590	No terminal repeats	NA	91	11	0.9994	0.0003	17	127.1082	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_JQCB01000003.1|provirus_23206_37589	14384	Provirus	23206-37589	31	11	0.9994	0.0003	0	18.0041	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_CAQHYD010000051.1	15690	ITR	NA	21	11	0.9994	0.0003	3	15.0337	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAAWLJ010000181.1	5448	No terminal repeats	NA	6	11	0.9994	0.0003	1	6.6257	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAGCCP010000051.1	17434	No terminal repeats	NA	28	11	0.9994	0.0003	5	16.3006	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_JAJOHX010000017.1|provirus_9419_41441	32023	Provirus	9419-41441	33	11	0.9994	0.0003	10	32.8188	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MN582103.1	53969	No terminal repeats	NA	67	11	0.9994	0.0003	2	44.9050	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JN880452.1	35705	ITR	NA	35	11	0.9994	0.0003	26	58.4216	Viruses;Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Rowavirales;Adenoviridae
+BK035736.1	43494	No terminal repeats	NA	44	11	0.9994	0.0003	5	18.9298	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+LR796205.1	37664	No terminal repeats	NA	65	11	0.9994	0.0003	1	42.2062	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_CAQNSG010000079.1	13865	No terminal repeats	NA	14	11	0.9994	0.0003	3	15.4645	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_JAUNSF010000011.1|provirus_3_36237	36235	Provirus	3-36237	36	11	0.9994	0.0003	4	29.9823	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK054523.1	23938	No terminal repeats	NA	35	11	0.9994	0.0003	4	23.1184	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MN582104.1	31299	No terminal repeats	NA	50	11	0.9994	0.0003	9	25.6428	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZAU01000107.1	8866	No terminal repeats	NA	9	11	0.9994	0.0003	3	13.2654	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Kyanoviridae
+BK035515.1	17525	ITR	NA	22	11	0.9994	0.0003	3	16.8562	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_NUQY01000043.1|provirus_208_35157	34950	Provirus	208-35157	46	11	0.9994	0.0003	15	49.5931	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAFZEN010000025.1	8682	No terminal repeats	NA	15	11	0.9994	0.0003	2	8.5914	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK018993.1	20201	No terminal repeats	NA	26	11	0.9994	0.0003	6	19.1483	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAGCAQ010000434.1	3068	No terminal repeats	NA	4	11	0.9994	0.0003	0	3.1891	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+RFVH01001085.1	1229	No terminal repeats	NA	3	11	0.9994	0.0003	1	4.6371	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+SSEM01000350.1	10612	No terminal repeats	NA	10	11	0.9994	0.0003	2	6.9802	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_CP011272.1	60857	No terminal repeats	NA	93	11	0.9994	0.0003	3	25.2098	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+LR796623.1	55254	No terminal repeats	NA	74	11	0.9994	0.0003	5	15.6007	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_SRUW01000008.1|provirus_16931_34034	17104	Provirus	16931-34034	24	11	0.9994	0.0003	4	13.5885	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK016733.1	22405	No terminal repeats	NA	29	11	0.9994	0.0003	2	14.4175	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MK500415.1	17943	No terminal repeats	NA	13	11	0.9994	0.0003	0	3.4296	Viruses;Varidnaviria;Bamfordvirae;Nucleocytoviricota;Megaviricetes;Imitervirales;Mimiviridae
+MK892597.1	36253	No terminal repeats	NA	51	11	0.9994	0.0003	6	72.5705	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+LR796544.1	41496	No terminal repeats	NA	54	11	0.9994	0.0003	4	20.1170	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+KT997803.1|provirus_18030_30479	12450	Provirus	18030-30479	17	11	0.9994	0.0004	3	12.5518	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK020061.1	14113	ITR	NA	23	11	0.9994	0.0004	4	15.2171	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+PP352021.1	6602	No terminal repeats	NA	5	11	0.9994	0.0004	1	3.4366	Viruses;Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Rowavirales;Adenoviridae
+MW334946.1	45087	No terminal repeats	NA	71	11	0.9994	0.0004	12	44.7527	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MN856096.1	53938	No terminal repeats	NA	76	11	0.9994	0.0004	1	15.6051	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_CP147717.1|provirus_15710_40128	24419	Provirus	15710-40128	39	11	0.9994	0.0004	3	21.0756	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK015993.1	19464	No terminal repeats	NA	23	11	0.9994	0.0004	4	13.2148	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_025962.1	31735	No terminal repeats	NA	32	11	0.9994	0.0004	9	36.0839	Viruses;Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Rowavirales;Adenoviridae
+PP272799.1	2938	No terminal repeats	NA	2	11	0.9994	0.0004	1	3.4366	Viruses;Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Rowavirales;Adenoviridae
+NC_048827.1	60674	No terminal repeats	NA	89	11	0.9994	0.0004	11	53.0967	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_LGJH01000162.1|provirus_2_34852	34851	Provirus	2-34852	37	11	0.9994	0.0004	4	22.7387	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_070650.1	61775	No terminal repeats	NA	82	11	0.9994	0.0004	3	31.9052	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAFPAN010000129.1	16178	No terminal repeats	NA	26	11	0.9994	0.0004	3	14.4627	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MK250085.1	61361	No terminal repeats	NA	62	11	0.9994	0.0004	0	15.2290	Viruses;Varidnaviria;Bamfordvirae;Nucleocytoviricota;Megaviricetes;Imitervirales;
+BK029353.1	17701	No terminal repeats	NA	16	11	0.9994	0.0004	3	13.7444	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MT764845.1	61370	No terminal repeats	NA	94	11	0.9994	0.0004	10	60.4804	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_077067.1	63377	No terminal repeats	NA	50	11	0.9994	0.0004	1	4.1586	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+PBYU01000030.1	9579	No terminal repeats	NA	13	11	0.9994	0.0004	4	17.1815	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+LR798356.1	38813	No terminal repeats	NA	51	11	0.9994	0.0004	1	15.7562	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MT773557.1	60006	No terminal repeats	NA	85	11	0.9994	0.0004	13	77.7441	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_CABVDY010000072.1	13158	No terminal repeats	NA	17	11	0.9994	0.0004	3	18.3992	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_048651.1	51606	No terminal repeats	NA	82	11	0.9994	0.0004	12	71.5647	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NHGR01000066.1	10683	No terminal repeats	NA	19	11	0.9994	0.0004	1	6.4867	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_LYXZ01000053.1|provirus_28455_61876	33422	Provirus	28455-61876	33	11	0.9994	0.0004	9	19.4014	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_042083.1	16523	ITR	NA	33	11	0.9994	0.0004	2	9.2344	Viruses;Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Kalamavirales;Tectiviridae
+NC_021330.1	60797	No terminal repeats	NA	74	11	0.9994	0.0004	5	68.7300	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;Thumleimavirales;Druskaviridae
+JX997176.1	60911	No terminal repeats	NA	69	11	0.9994	0.0004	9	41.3919	Viruses;Varidnaviria;Bamfordvirae;Nucleocytoviricota;Megaviricetes;Algavirales;Phycodnaviridae
+LR796496.1	60812	No terminal repeats	NA	79	11	0.9994	0.0004	3	20.7881	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_CP068419.1|provirus_11567_47765	36199	Provirus	11567-47765	54	11	0.9994	0.0004	6	27.0318	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK037030.1	14100	No terminal repeats	NA	19	11	0.9994	0.0004	4	18.2631	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_LMFK01000012.1|provirus_2_39995	39994	Provirus	2-39995	54	11	0.9994	0.0004	9	42.7165	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK017338.1	13283	No terminal repeats	NA	19	11	0.9994	0.0004	3	11.7805	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+QNFV01000156.1	4603	No terminal repeats	NA	6	11	0.9994	0.0004	2	8.5914	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+AMFJ01005424.1	2774	No terminal repeats	NA	2	11	0.9993	0.0004	0	1.7183	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_LAJX01000007.1|provirus_16394_50094	33701	Provirus	16394-50094	64	11	0.9993	0.0004	3	27.1599	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK043702.1	14700	ITR	NA	19	11	0.9993	0.0004	3	15.4619	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_048037.1	37311	ITR	NA	62	11	0.9993	0.0004	0	14.2735	Viruses;Adnaviria;Zilligvirae;Taleaviricota;Tokiviricetes;Ligamenvirales;Lipothrixviridae
+JAGWLI010000132.1	14796	No terminal repeats	NA	25	11	0.9993	0.0004	2	11.8562	Viruses;Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Kalamavirales;Tectiviridae
+BK040862.1	37850	No terminal repeats	NA	41	11	0.9993	0.0004	1	15.2951	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MT711977.1	47301	DTR	NA	91	11	0.9993	0.0004	7	48.5483	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK038692.1	60809	No terminal repeats	NA	57	11	0.9993	0.0004	3	29.2898	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+DATMTI010000622.1	4467	No terminal repeats	NA	7	11	0.9993	0.0004	0	3.4366	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_BAQA01000037.1	35457	No terminal repeats	NA	47	11	0.9993	0.0004	15	41.8367	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_FOTK01000061.1	21035	No terminal repeats	NA	39	11	0.9993	0.0004	0	9.0829	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_CP171125.1|provirus_3_46266	46264	Provirus	3-46266	67	11	0.9993	0.0004	5	47.4289	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Schitoviridae
+NZ_BDJG01000022.1|provirus_3_34840	34838	Provirus	3-34840	54	11	0.9993	0.0004	5	31.0268	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK017272.1	18399	ITR	NA	27	11	0.9993	0.0004	3	16.8588	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MK892704.1	58125	No terminal repeats	NA	76	11	0.9993	0.0004	4	28.2025	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+KT997862.1	35974	DTR	NA	52	11	0.9993	0.0004	3	15.0134	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_075448.1	48395	ITR	NA	44	11	0.9993	0.0004	8	17.7133	Viruses;Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Rowavirales;Adenoviridae
+DASSUK010000381.1	1940	No terminal repeats	NA	4	11	0.9993	0.0004	1	3.4366	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_BBYM01000005.1|provirus_1_38314	38314	Provirus	1-38314	59	11	0.9993	0.0004	7	32.8487	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_MDBX01000057.1|provirus_22054_62190	40137	Provirus	22054-62190	50	11	0.9993	0.0004	14	47.4548	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+RGQQ01000011.1	10921	No terminal repeats	NA	13	11	0.9993	0.0004	6	10.2651	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAFWCC010000082.1	13811	ITR	NA	20	11	0.9993	0.0004	3	15.4645	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+LR796257.1	43966	No terminal repeats	NA	66	11	0.9993	0.0004	9	43.9252	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK015931.1	13699	No terminal repeats	NA	18	11	0.9993	0.0004	3	15.3689	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JBDRFA010000057.1	6503	No terminal repeats	NA	18	11	0.9993	0.0004	0	6.3435	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_SCIN01000004.1|provirus_15877_62466	46590	Provirus	15877-62466	55	11	0.9993	0.0004	16	42.4838	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAYNLF010000336.1	3109	No terminal repeats	NA	9	11	0.9993	0.0004	0	3.0143	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Kyanoviridae
+MT790999.1	33869	No terminal repeats	NA	31	11	0.9993	0.0004	20	49.8302	Viruses;Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Rowavirales;Adenoviridae
+BK018806.1	17342	No terminal repeats	NA	26	11	0.9993	0.0004	3	16.8588	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_JAFNMG010000001.1|provirus_26710_60862	34153	Provirus	26710-60862	58	11	0.9992	0.0004	6	48.2731	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_000964.3	60416	No terminal repeats	NA	82	11	0.9992	0.0004	4	85.8931	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+OP030908.1	60437	No terminal repeats	NA	103	11	0.9992	0.0004	1	34.6341	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZER01000267.1	33120	No terminal repeats	NA	48	11	0.9992	0.0004	4	18.5874	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_JZAM01000360.1|provirus_3_39714	39712	Provirus	3-39714	58	11	0.9992	0.0004	5	47.7030	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_LWTT01000002.1|provirus_1_38949	38949	Provirus	1-38949	50	11	0.9992	0.0004	9	47.7799	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JBAYUE010000068.1	14126	No terminal repeats	NA	19	11	0.9992	0.0004	0	6.9147	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+LC469780.1	33255	No terminal repeats	NA	26	11	0.9992	0.0004	10	34.3656	Viruses;Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Rowavirales;Adenoviridae
+NCAM01000214.1|provirus_1_11068	11068	Provirus	1-11068	11	11	0.9992	0.0004	3	8.8529	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+VGGS01000006.1	13808	No terminal repeats	NA	16	11	0.9992	0.0004	6	23.0428	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+LR796199.1	37479	No terminal repeats	NA	39	11	0.9992	0.0004	5	37.2639	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JASMFQ010000219.1	3904	No terminal repeats	NA	7	11	0.9992	0.0004	3	9.7919	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MT310898.1	60794	No terminal repeats	NA	90	11	0.9992	0.0004	0	37.4088	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAOKQO010000001.1	22154	No terminal repeats	NA	23	11	0.9992	0.0004	10	32.1422	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_001734.1	30536	ITR	NA	31	11	0.9992	0.0004	17	48.1119	Viruses;Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Rowavirales;Adenoviridae
+JAACRV010000003.1	59615	No terminal repeats	NA	84	11	0.9992	0.0004	14	60.4971	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAKUSJ010000019.1	2740	No terminal repeats	NA	5	11	0.9992	0.0004	2	6.8731	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+DRHV01000214.1	12278	No terminal repeats	NA	14	11	0.9992	0.0004	0	1.5228	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_VJON01000041.1	27992	No terminal repeats	NA	37	11	0.9992	0.0004	0	10.6107	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_010153.1	36895	No terminal repeats	NA	57	11	0.9992	0.0004	0	87.6477	Viruses;Adnaviria;Zilligvirae;Taleaviricota;Tokiviricetes;Ligamenvirales;Lipothrixviridae
+JBAZJX010000323.1	3796	No terminal repeats	NA	7	11	0.9992	0.0004	0	4.3178	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_JAHNZO010000006.1|provirus_1_26692	26692	Provirus	1-26692	57	11	0.9991	0.0004	0	10.4224	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+LR796418.1	60506	No terminal repeats	NA	82	11	0.9991	0.0004	3	52.5369	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_JACSWY010000016.1|provirus_2_19938	19937	Provirus	2-19938	27	11	0.9991	0.0004	4	16.9348	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+QMMK01000003.1	19103	No terminal repeats	NA	34	11	0.9991	0.0004	1	15.8341	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Schitoviridae
+NZ_CABITV010000002.1|provirus_26127_36490	10364	Provirus	26127-36490	16	11	0.9991	0.0004	1	8.7982	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_NZMR01000065.1	25439	No terminal repeats	NA	19	11	0.9991	0.0004	6	29.3882	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+OL656105.1	17065	ITR	NA	32	11	0.9991	0.0004	0	3.7764	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_AZRV01000006.1|provirus_2_37138	37137	Provirus	2-37138	65	11	0.9991	0.0004	14	54.0858	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_JAHNZO010000006.1|provirus_37882_61235	23354	Provirus	37882-61235	29	11	0.9991	0.0004	3	14.6377	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MZ440852.1	61340	No terminal repeats	NA	75	11	0.9991	0.0004	1	16.1149	Viruses;;;;;;
+DASPYK010000453.1	6169	No terminal repeats	NA	10	11	0.9991	0.0004	1	4.8437	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_CACSAS010000001.1|provirus_104_39071	38968	Provirus	104-39071	50	11	0.9991	0.0004	6	33.0050	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_041997.1	48910	No terminal repeats	NA	81	11	0.9991	0.0004	10	61.1578	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+LR797252.1	60788	No terminal repeats	NA	84	11	0.9991	0.0004	1	26.0516	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_LXEP01000033.1	61904	No terminal repeats	NA	75	11	0.9991	0.0004	11	20.2676	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK034132.1	39025	No terminal repeats	NA	45	11	0.9991	0.0004	3	13.2285	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+CP007031.1|provirus_25697_60613	34917	Provirus	25697-60613	52	11	0.9990	0.0004	7	33.2570	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JABHYK010000071.1	3453	No terminal repeats	NA	6	11	0.9990	0.0004	3	8.0737	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_005830.1	20869	No terminal repeats	NA	38	11	0.9990	0.0004	0	9.4009	Viruses;Adnaviria;Zilligvirae;Taleaviricota;Tokiviricetes;Ligamenvirales;
+NZ_LNCU01000011.1|provirus_23116_35916	12801	Provirus	23116-35916	18	11	0.9990	0.0004	0	7.9456	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+RHCS01000507.1	1770	No terminal repeats	NA	4	11	0.9990	0.0004	2	6.3554	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAYNMW010000151.1	1784	No terminal repeats	NA	3	11	0.9990	0.0004	1	4.6371	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAKMAF010000021.1	10333	No terminal repeats	NA	17	11	0.9990	0.0004	0	4.4894	Viruses;;;;;;Ampullaviridae
+KY290956.1	60806	No terminal repeats	NA	88	11	0.9990	0.0004	23	97.8774	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Straboviridae
+NC_042353.1	50672	No terminal repeats	NA	63	11	0.9990	0.0004	2	20.7552	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MK994522.1|provirus_1_42817	42817	Provirus	1-42817	49	11	0.9990	0.0004	1	18.8774	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+RFSS01000223.1	3030	No terminal repeats	NA	6	11	0.9990	0.0004	3	8.0737	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Kyanoviridae
+NC_024486.1	43734	ITR	NA	38	11	0.9990	0.0004	9	34.3656	Viruses;Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Rowavirales;Adenoviridae
+DUBF01000183.1	12743	No terminal repeats	NA	12	11	0.9990	0.0004	5	18.8960	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+WQTZ01000078.1	5805	No terminal repeats	NA	8	11	0.9990	0.0004	0	4.7698	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+VGLZ01000001.1	23603	No terminal repeats	NA	20	11	0.9990	0.0004	7	26.6003	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+KR029579.1	39551	No terminal repeats	NA	58	11	0.9989	0.0004	1	15.4209	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK066448.1	35082	No terminal repeats	NA	34	11	0.9989	0.0004	9	29.2046	Viruses;Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Rowavirales;Adenoviridae
+NC_028787.1	28489	ITR	NA	54	11	0.9989	0.0004	0	36.6863	Viruses;;;;;;Ampullaviridae
+PBLU01000011.1	20525	No terminal repeats	NA	19	11	0.9989	0.0004	4	31.7720	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Kyanoviridae
+LNGC01000143.1	4045	No terminal repeats	NA	9	11	0.9989	0.0004	0	3.3568	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+KX258422.1	43976	ITR	NA	38	11	0.9989	0.0004	13	56.7033	Viruses;Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Rowavirales;Adenoviridae
+NC_028938.1	22613	ITR	NA	44	11	0.9989	0.0004	0	40.1229	Viruses;;;;;;Ampullaviridae
+BK013345.1	37258	No terminal repeats	NA	48	11	0.9988	0.0004	2	15.5442	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_001876.1	34446	ITR	NA	31	11	0.9988	0.0004	16	37.8022	Viruses;Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Rowavirales;Adenoviridae
+LR798360.1	60776	No terminal repeats	NA	94	11	0.9988	0.0004	8	74.9527	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+OR096706.1	39920	No terminal repeats	NA	35	11	0.9988	0.0004	12	37.8022	Viruses;Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Rowavirales;Adenoviridae
+ON923977.1	30918	No terminal repeats	NA	14	11	0.9988	0.0004	6	15.4645	Viruses;Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Rowavirales;Adenoviridae
+MK500334.1	61652	No terminal repeats	NA	86	11	0.9988	0.0004	1	13.3681	Viruses;Varidnaviria;Bamfordvirae;Nucleocytoviricota;Megaviricetes;;
+NZ_CAAAIB010000015.1|provirus_15499_60692	45194	Provirus	15499-60692	50	11	0.9988	0.0004	7	36.5604	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+SSEM01000261.1	20930	No terminal repeats	NA	36	11	0.9988	0.0004	0	10.2298	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAOKRE010000001.1	59730	No terminal repeats	NA	79	11	0.9988	0.0004	13	117.2155	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+RFLS01000299.1	6818	No terminal repeats	NA	14	11	0.9988	0.0004	1	4.8520	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_025375.1	28096	ITR	NA	36	11	0.9988	0.0004	1	36.0394	Viruses;Adnaviria;Zilligvirae;Taleaviricota;Tokiviricetes;Ligamenvirales;Rudiviridae
+NZ_NYTA01000017.1	40296	No terminal repeats	NA	44	11	0.9988	0.0004	11	67.4103	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_WVHP01000004.1	38919	No terminal repeats	NA	50	11	0.9988	0.0004	14	33.4132	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAOKRP010000002.1	14533	No terminal repeats	NA	17	11	0.9988	0.0004	2	22.7022	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Schitoviridae
+OR998962.1	33895	No terminal repeats	NA	33	11	0.9987	0.0004	14	29.2108	Viruses;Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Rowavirales;Adenoviridae
+KY073338.1	61484	No terminal repeats	NA	75	11	0.9987	0.0004	5	28.5915	Viruses;Varidnaviria;Bamfordvirae;Nucleocytoviricota;Megaviricetes;Pimascovirales;
+JAGLQU010000881.1	2334	No terminal repeats	NA	5	11	0.9987	0.0004	3	5.1548	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_SMFM01000002.1|provirus_26348_60967	34620	Provirus	26348-60967	38	11	0.9987	0.0004	1	35.5635	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_RXKH01000094.1	4089	No terminal repeats	NA	7	11	0.9986	0.0004	0	2.1787	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK066675.1	37597	No terminal repeats	NA	35	11	0.9986	0.0004	7	29.2046	Viruses;Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Rowavirales;Adenoviridae
+KP279746.1	24630	ITR	NA	21	11	0.9986	0.0004	10	30.9291	Viruses;Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Rowavirales;Adenoviridae
+NZ_JAZGGR010000010.1	61928	No terminal repeats	NA	86	11	0.9986	0.0004	12	47.2891	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+DSAK01000188.1	2779	No terminal repeats	NA	3	11	0.9986	0.0004	0	3.9356	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+ON304002.1	9814	No terminal repeats	NA	3	11	0.9985	0.0004	2	3.4366	Viruses;Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Rowavirales;Adenoviridae
+JBAZDY010000148.1	3058	No terminal repeats	NA	8	11	0.9985	0.0004	0	2.6033	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_020487.1	36838	ITR	NA	35	11	0.9984	0.0004	20	46.3936	Viruses;Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Rowavirales;Adenoviridae
+NYWG01000260.1	14257	No terminal repeats	NA	17	11	0.9984	0.0004	8	28.6340	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Kyanoviridae
+JAGCBE010000368.1	8665	No terminal repeats	NA	23	11	0.9984	0.0004	1	5.5333	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NHBR02000105.1	60587	No terminal repeats	NA	94	11	0.9983	0.0004	16	120.2284	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK043661.1	27014	ITR	NA	29	11	0.9983	0.0004	4	19.8650	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+DUZG01000086.1	4348	No terminal repeats	NA	6	11	0.9982	0.0004	3	5.1548	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+KY296500.1	35736	No terminal repeats	NA	33	11	0.9982	0.0004	1	7.0586	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAGCAQ010000439.1	6554	No terminal repeats	NA	14	11	0.9982	0.0004	0	3.3226	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZAS01000120.1	12952	No terminal repeats	NA	15	11	0.9982	0.0004	7	25.2006	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK045839.1	29238	No terminal repeats	NA	36	11	0.9981	0.0004	6	35.7510	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK014853.1	7628	No terminal repeats	NA	10	11	0.9980	0.0004	0	6.8731	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK036873.1	23711	No terminal repeats	NA	25	11	0.9980	0.0004	2	11.2403	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JASMFQ010000050.1	9485	No terminal repeats	NA	11	11	0.9978	0.0004	3	13.6937	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MK500328.1	42025	No terminal repeats	NA	53	11	0.9972	0.0004	2	7.8146	Viruses;Varidnaviria;Bamfordvirae;Nucleocytoviricota;Megaviricetes;;
+NC_076486.1	35275	ITR	NA	29	11	0.9972	0.0004	8	32.6474	Viruses;Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Rowavirales;Adenoviridae
+QMTG01000110.1	4076	No terminal repeats	NA	9	11	0.9971	0.0004	0	4.0754	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZAS01000130.1	20150	No terminal repeats	NA	24	11	0.9971	0.0004	10	25.0987	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MN025530.1	18069	No terminal repeats	NA	19	11	0.9971	0.0004	7	17.1828	Viruses;Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Rowavirales;Adenoviridae
+BK051310.1	23854	No terminal repeats	NA	30	11	0.9970	0.0004	5	21.5994	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_000942.1	30944	ITR	NA	25	11	0.9970	0.0004	12	29.2108	Viruses;Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Rowavirales;Adenoviridae
+JADBYP010000112.1	4861	No terminal repeats	NA	7	11	0.9968	0.0004	3	6.4609	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+KT895374.1	60944	No terminal repeats	NA	70	11	0.9968	0.0004	5	38.9459	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_RBXB01000001.1	60995	No terminal repeats	NA	78	11	0.9967	0.0004	8	51.1976	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+RPPY01000028.1	4154	No terminal repeats	NA	6	11	0.9967	0.0005	0	1.7077	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+CCMO02000001.1|provirus_15519_32056	16538	Provirus	15519-32056	18	11	0.9967	0.0005	7	18.5929	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+CP027227.1|provirus_60_34629	34570	Provirus	60-34629	52	11	0.9966	0.0005	5	22.0568	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAQWED010000281.1	4706	No terminal repeats	NA	9	11	0.9966	0.0005	1	6.0904	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_RCYZ01000004.1|provirus_2_29537	29536	Provirus	2-29537	42	11	0.9965	0.0005	3	23.8607	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_BLBC01000014.1|provirus_20941_50852	29912	Provirus	20941-50852	41	11	0.9962	0.0005	1	15.9016	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK015217.1	52188	No terminal repeats	NA	79	11	0.9961	0.0005	3	36.0214	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_JAPEPS010000001.1|provirus_121_19217	19097	Provirus	121-19217	32	11	0.9960	0.0005	0	9.3502	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_SBLB01000001.1|provirus_14583_61889	47307	Provirus	14583-61889	51	11	0.9960	0.0005	0	19.1942	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+ON217544.1	30087	ITR	NA	26	11	0.9959	0.0005	17	37.8022	Viruses;Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Rowavirales;Adenoviridae
+JAFWCC010000081.1	15424	ITR	NA	22	11	0.9957	0.0005	5	16.3635	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MK620894.1	66335	No terminal repeats	NA	106	11	0.9956	0.0005	0	18.4428	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAZADQ010000048.1	2724	No terminal repeats	NA	4	11	0.9954	0.0005	2	5.1548	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+RFPU01000308.1	1980	No terminal repeats	NA	4	11	0.9954	0.0005	3	6.3554	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAGCWO010000565.1	4476	No terminal repeats	NA	6	11	0.9952	0.0005	0	2.6803	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZZP01000016.1	12554	No terminal repeats	NA	18	11	0.9951	0.0005	7	28.8236	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Kyanoviridae
+NC_033775.1	61229	No terminal repeats	NA	77	11	0.9948	0.0005	2	21.0790	Viruses;Varidnaviria;Bamfordvirae;Nucleocytoviricota;Megaviricetes;Pimascovirales;
+NZ_MAUH01000001.1|provirus_18713_32835	14123	Provirus	18713-32835	26	11	0.9948	0.0005	2	14.6133	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+QMYV01000334.1	3200	No terminal repeats	NA	5	11	0.9947	0.0005	0	1.4479	Viruses;Adnaviria;Zilligvirae;Taleaviricota;Tokiviricetes;Ligamenvirales;Rudiviridae
+MK072508.1	56527	No terminal repeats	NA	44	11	0.9945	0.0005	1	1.3093	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_DF820500.1|provirus_2_18984	18983	Provirus	2-18984	31	11	0.9942	0.0005	0	8.0542	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+DQPR01000081.1	9440	No terminal repeats	NA	12	11	0.9939	0.0005	5	16.7295	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAOFBJ010000039.1	2587	No terminal repeats	NA	4	11	0.9935	0.0005	2	6.8731	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_JALJXG010000001.1|provirus_21816_51151	29336	Provirus	21816-51151	31	11	0.9934	0.0005	1	12.9273	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_LMNE01000043.1	7500	No terminal repeats	NA	12	11	0.9934	0.0005	0	3.3891	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+DQKQ01000249.1	12878	No terminal repeats	NA	14	11	0.9926	0.0005	8	24.0559	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_SBLB01000003.1	61931	No terminal repeats	NA	61	11	0.9926	0.0005	2	14.4571	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+RGVZ01000077.1	17247	No terminal repeats	NA	17	11	0.9926	0.0006	0	11.1469	Viruses;Varidnaviria;Bamfordvirae;Nucleocytoviricota;Megaviricetes;Imitervirales;
+DTUU01000003.1	5104	No terminal repeats	NA	7	11	0.9922	0.0006	2	10.3097	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_SCFB01000019.1	11689	No terminal repeats	NA	10	11	0.9921	0.0006	0	3.4366	Viruses;Varidnaviria;Bamfordvirae;Preplasmiviricota;Maveriviricetes;Priklausovirales;
+NC_034383.1	49889	No terminal repeats	NA	55	11	0.9920	0.0006	0	4.5399	Viruses;Varidnaviria;Bamfordvirae;Nucleocytoviricota;;;
+PP098962.1	29933	No terminal repeats	NA	25	11	0.9919	0.0006	13	30.9291	Viruses;Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Rowavirales;Adenoviridae
+MH673673.1	43145	No terminal repeats	NA	44	11	0.9917	0.0006	3	10.1119	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MK072243.1	52943	No terminal repeats	NA	54	11	0.9914	0.0006	2	4.3542	Viruses;Varidnaviria;Bamfordvirae;Nucleocytoviricota;Megaviricetes;;
+JAMWCT010000154.1	3079	No terminal repeats	NA	8	11	0.9914	0.0006	0	2.5500	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NYWC01000112.1	9833	No terminal repeats	NA	11	11	0.9911	0.0006	4	13.7463	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+LR797474.1	60752	No terminal repeats	NA	98	11	0.9910	0.0006	2	58.4378	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+DRFP01000054.1	25046	No terminal repeats	NA	35	11	0.9910	0.0006	5	19.8057	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_002685.2	31301	ITR	NA	27	11	0.9906	0.0006	10	39.5143	Viruses;Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Rowavirales;Adenoviridae
+MZGI01000259.1	5729	No terminal repeats	NA	12	11	0.9897	0.0006	1	5.9159	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MT674683.1	39644	No terminal repeats	NA	35	11	0.9889	0.0006	7	29.2108	Viruses;Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Rowavirales;Adenoviridae
+MH617458.1	19866	No terminal repeats	NA	33	11	0.9882	0.0006	3	8.5674	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_002501.1	26163	ITR	NA	22	11	0.9876	0.0007	8	25.7742	Viruses;Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Rowavirales;Adenoviridae
+BK046576.1	19815	ITR	NA	24	11	0.9873	0.0007	4	14.7376	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MK072136.1	29345	No terminal repeats	NA	29	11	0.9872	0.0007	0	0.0000	Unclassified
+DOEL01000056.1	2820	No terminal repeats	NA	4	11	0.9865	0.0007	2	5.1548	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+KP412538.1	61025	No terminal repeats	NA	45	11	0.9862	0.0007	1	1.7183	Viruses;Duplodnaviria;Heunggongvirae;Peploviricota;Herviviricetes;Herpesvirales;Orthoherpesviridae
+JAAYWA010000287.1	2593	No terminal repeats	NA	4	11	0.9861	0.0007	0	2.3801	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_JBFJQD010000372.1	3413	No terminal repeats	NA	3	11	0.9857	0.0007	0	1.7183	Unclassified
+MW286325.1	45476	No terminal repeats	NA	38	11	0.9854	0.0007	12	39.5205	Viruses;Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Rowavirales;Adenoviridae
+MGPH01000011.1|provirus_45204_60928	15725	Provirus	45204-60928	23	11	0.9851	0.0007	8	24.0219	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_001813.1	33213	No terminal repeats	NA	33	11	0.9849	0.0007	9	36.0839	Viruses;Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Rowavirales;Adenoviridae
+MH617769.1	47904	No terminal repeats	NA	67	11	0.9843	0.0008	1	3.4285	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+DAORHD010000023.1	8842	No terminal repeats	NA	8	11	0.9837	0.0008	0	4.3986	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_007346.1	61319	No terminal repeats	NA	67	11	0.9835	0.0008	2	3.4366	Viruses;Varidnaviria;Bamfordvirae;Nucleocytoviricota;Megaviricetes;;
+ON642334.1	41175	No terminal repeats	NA	29	11	0.9830	0.0008	13	41.2388	Viruses;Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Rowavirales;Adenoviridae
+OR998870.1	30724	DTR	NA	25	11	0.9827	0.0008	12	29.2108	Viruses;Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Rowavirales;Adenoviridae
+NZ_CASZTE010000062.1	13554	No terminal repeats	NA	18	11	0.9826	0.0008	4	11.7805	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BK030368.1	12792	No terminal repeats	NA	14	11	0.9810	0.0008	3	15.3689	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAGWHL010000382.1	1367	No terminal repeats	NA	3	11	0.9810	0.0009	2	4.6371	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+DMHR01001101.1	5159	No terminal repeats	NA	6	11	0.9810	0.0009	1	6.8731	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Straboviridae
+RXKI01000005.1	6622	No terminal repeats	NA	10	11	0.9805	0.0009	5	16.6439	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_014899.1	35203	ITR	NA	25	11	0.9802	0.0009	13	29.2108	Viruses;Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Rowavirales;Adenoviridae
+MK500570.1	25586	No terminal repeats	NA	27	11	0.9802	0.0009	1	7.6445	Viruses;;;;;;
+NC_007914.1	14462	No terminal repeats	NA	25	11	0.9797	0.0009	0	1.0539	Unclassified
+NC_075453.1	30134	ITR	NA	25	11	0.9789	0.0009	16	34.3656	Viruses;Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Rowavirales;Adenoviridae
+RFWC01000079.1	8531	No terminal repeats	NA	10	11	0.9787	0.0010	0	3.2765	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_CP026328.2|provirus_28521_61199	32679	Provirus	28521-61199	40	11	0.9777	0.0010	0	9.5489	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+RGPI01000353.1	2850	No terminal repeats	NA	5	11	0.9768	0.0010	3	8.5914	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JABSRW010000714.1	2880	No terminal repeats	NA	5	11	0.9767	0.0010	3	8.0737	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Kyanoviridae
+NC_008584.1	49959	No terminal repeats	NA	59	11	0.9767	0.0010	3	61.4527	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+QMYR01000043.1	15318	No terminal repeats	NA	21	11	0.9755	0.0010	0	5.4005	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+QMSJ01000175.1	3436	No terminal repeats	NA	4	11	0.9748	0.0011	0	2.8452	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MW508338.2	26075	ITR	NA	23	11	0.9747	0.0011	9	29.2108	Viruses;Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Rowavirales;Adenoviridae
+DUCX01000052.1	2249	No terminal repeats	NA	4	11	0.9740	0.0011	1	4.6371	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Kyanoviridae
+JAYNJB010000211.1	4383	No terminal repeats	NA	6	11	0.9684	0.0011	2	8.5914	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_076126.1	14776	No terminal repeats	NA	9	11	0.9681	0.0012	3	10.3097	Viruses;Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Rowavirales;Adenoviridae
+SCRD01000025.1|provirus_18236_44051	25816	Provirus	18236-44051	25	11	0.9675	0.0012	4	20.0059	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+REEP01000067.1|provirus_11174_23543	12370	Provirus	11174-23543	14	11	0.9601	0.0012	5	13.8477	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAMPEO010000192.1	3871	No terminal repeats	NA	3	11	0.9587	0.0012	0	1.7183	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+RFWU01000195.1	3420	No terminal repeats	NA	5	11	0.9575	0.0013	2	8.0737	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MK072035.1	4100	No terminal repeats	NA	4	11	0.9562	0.0013	0	0.0000	Unclassified
+RFVT01000113.1	4739	No terminal repeats	NA	7	11	0.9552	0.0013	3	9.7919	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+DOFH01000146.1	2563	No terminal repeats	NA	6	11	0.9490	0.0014	0	1.3014	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_024150.1	31709	No terminal repeats	NA	28	11	0.9449	0.0014	16	36.0839	Viruses;Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Rowavirales;Adenoviridae
+JAWSTK010000114.1	3442	No terminal repeats	NA	6	11	0.9448	0.0015	3	8.0737	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Kyanoviridae
+QMNQ01000018.1	10846	No terminal repeats	NA	15	11	0.9389	0.0015	0	2.0801	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+QMSG01000298.1	2544	No terminal repeats	NA	8	11	0.9375	0.0015	0	0.0000	Unclassified
+NZ_CP047593.1|provirus_3_16173	16171	Provirus	3-16173	18	11	0.9368	0.0016	2	7.3732	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+QMRH01000031.1	25251	No terminal repeats	NA	41	11	0.9295	0.0016	0	1.4365	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+DNUT01000279.1	5187	No terminal repeats	NA	6	11	0.9263	0.0017	3	10.3097	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;Kyanoviridae
+NZ_JACIAZ010000013.1|provirus_24707_46517	21811	Provirus	24707-46517	35	11	0.9237	0.0018	0	4.7708	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_BDQI01000008.1|provirus_11620_41035	29416	Provirus	11620-41035	41	11	0.9224	0.0018	0	3.6298	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NZ_NXLX01000013.1	45355	No terminal repeats	NA	43	11	0.9205	0.0019	0	2.3118	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+DOZD01000122.1	5664	No terminal repeats	NA	7	11	0.9156	0.0019	3	9.7919	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+QMWM01000040.1	5761	No terminal repeats	NA	10	11	0.9099	0.0020	0	0.5517	Viruses;Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Coyopavirales;Chaacviridae
+VXPR01000265.1	2863	No terminal repeats	NA	2	11	0.9051	0.0021	0	1.2917	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+DATDDG010000783.1	3133	No terminal repeats	NA	3	11	0.8932	0.0022	0	1.4239	Viruses;Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Kalamavirales;Tectiviridae
+DRBS01000193.1	11863	No terminal repeats	NA	21	11	0.8851	0.0022	1	6.0704	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+WRNM01000144.1	5155	No terminal repeats	NA	3	11	0.8821	0.0023	0	0.0000	Unclassified
+MK500305.1	9502	No terminal repeats	NA	11	11	0.8783	0.0024	0	0.0000	Unclassified
+WTBK01000013.1	3242	No terminal repeats	NA	2	11	0.8734	0.0025	0	0.0000	Unclassified
+NZ_CALBFO010000045.1	7163	No terminal repeats	NA	7	11	0.8480	0.0026	1	5.1548	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAFONJ010000064.1	2872	No terminal repeats	NA	6	11	0.8385	0.0028	0	0.0000	Unclassified
+CAJNZB010001448.1	26075	No terminal repeats	NA	19	11	0.8319	0.0029	0	3.4255	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MK072270.1	17495	No terminal repeats	NA	15	11	0.8301	0.0030	0	0.0000	Unclassified
+DAOOQM010000086.1	8912	No terminal repeats	NA	11	11	0.8141	0.0031	0	1.7183	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+NC_009803.1	34901	No terminal repeats	NA	62	11	0.8022	0.0033	0	14.2727	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAWCPQ010000087.1	3829	No terminal repeats	NA	6	11	0.7845	0.0034	0	3.4278	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+VUJU01011110.1	3926	No terminal repeats	NA	3	11	0.7617	0.0036	0	0.0000	Unclassified
+JACASV010000094.1	4268	No terminal repeats	NA	6	11	0.7510	0.0038	2	5.5946	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+BDSW01000143.1	18130	No terminal repeats	NA	11	11	0.7226	0.0040	0	1.4710	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+MZGI01000008.1	15605	No terminal repeats	NA	13	11	0.7139	0.0042	0	0.3394	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
