@@ -1,0 +1,27 @@
+group;category;definition
+INFORMATION STORAGE AND PROCESSING;A;RNA processing and modification
+INFORMATION STORAGE AND PROCESSING;B;Chromatin Structure and dynamics
+METABOLISM;C;Energy production and conversion
+CELLULAR PROCESSES AND SIGNALING;D;Cell cycle control and mitosis
+METABOLISM;E;Amino Acid metabolism and transport
+METABOLISM;F;Nucleotide metabolism and transport
+METABOLISM;G;Carbohydrate metabolism and transport
+METABOLISM;H;Coenzyme metabolism
+METABOLISM;I;Lipid metabolism
+INFORMATION STORAGE AND PROCESSING;J;Translation
+INFORMATION STORAGE AND PROCESSING;K;Transcription
+INFORMATION STORAGE AND PROCESSING;L;Replication and repair
+CELLULAR PROCESSES AND SIGNALING;M;Cell wall/membrane/envelop biogenesis
+CELLULAR PROCESSES AND SIGNALING;N;Cell motility
+CELLULAR PROCESSES AND SIGNALING;O;Post-translational modification, protein turnover, chaperone functions
+METABOLISM;P;Inorganic ion transport and metabolism
+METABOLISM;Q;Secondary Structure
+CELLULAR PROCESSES AND SIGNALING;T;Signal Transduction
+CELLULAR PROCESSES AND SIGNALING;U;Intracellular trafficking and secretion
+CELLULAR PROCESSES AND SIGNALING;V;Defense mechanisms
+CELLULAR PROCESSES AND SIGNALING;Y;Nuclear structure
+CELLULAR PROCESSES AND SIGNALING;Z;Cytoskeleton
+POORLY CHARACTERIZED;R;General Functional Prediction only
+POORLY CHARACTERIZED;S;Function Unknown
+CELLULAR PROCESSES AND SIGNALING;W;Extracellular structures
+;;
