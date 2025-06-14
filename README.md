@@ -27,6 +27,17 @@ This repository includes the notebooks and data from a preliminary systematic an
   |PHROG4TP_new.py|Necessary Python scripts for running PHROG|
   |PHROG4TP_hmmbuild.py|Necessary Python scripts for running PHROG|
 * Results files
+  |File|Description|
+  |----|-----------|
+  |TP_Predataset.csv|Predataset parseable dataframe|
+  |TP_Predataset_updated_2025_05.pdf|Updated (2025/05) Predataset with full-length taxonomic breakdown|
+  |TP_Clustered.clstr_n4c06g1.clstr|Predataset CD-Hit clustering results|
+  |TP_Dataset.csv|Initial TP dataset (clustered predataset)|
+  |TP_Dataset.zip|Compressed file containing initial TP dataset's AlphaFold2-yielded predicted structural models (PDB)|
+  |**FULL_results+GenomeID+Tax+Cluster+BLASTp_Synonyms+IPG+Non-Viral+eggNOG+Pol+COG.csv**|Main final dataframe encompassing results across all processing and scrutiny steps|
+  |FINAL_results_updated.csv|Raw curated results dataset merging Foldseek- and PSI-BLAST-yielded candidates|
+  |Dedup_FoldSeek_results_low_updated.csv|Curated (sieved, prefiltered, sorted and deduplicated) Foldseek-yielded candidate structure-based homologs' dataset|
+  |Species_PSI-BLAST_results_updated.csv|Curated (sieved, prefiltered, sorted and deduplicated) PSI-BLAST-yielded candidate sequence-based homologs' dataset|
 ## Useful links:
 *   András Szilágyi DNABIND classifier (https://dnabind.szialab.org/)
 *   Foldseek RESTful API (https://search.foldseek.com/api/)
